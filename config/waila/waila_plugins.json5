@@ -1,0 +1,331 @@
+{
+  waila: {
+    // Отображать блоки
+    // Default value: [true]
+    show_blocks: true,
+    // Отображать жидкости
+    // Попытается отображать жидкости
+    // Default value: [false]
+    show_fluids: false,
+    // Отображать сущности
+    // Default value: [true]
+    show_entities: true,
+    // Отображать иконки
+    // Default value: [true]
+    show_icon: true,
+    // Положение иконки
+    // Default value: [MIDDLE]
+    // Available values: [TOP, MIDDLE, BOTTOM]
+    icon_position: "MIDDLE",
+    // Отображать названия модов
+    // Default value: [true]
+    show_mod_name: true,
+    // Отображать названия мода для предеметов
+    // Default value: [true]
+    show_item_mod_name: true,
+    // Отображать названия из регистра
+    // Default value: [false]
+    show_registry: false
+  },
+  minecraft: {
+    // Отображать позицию блока
+    // Default value: [false]
+    "block.position": false,
+    // Отображать состояние блока
+    // Default value: [false]
+    "block.state": false,
+    // Отображать сущности предметов
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "entity.item_entity": true,
+    // Отображать сущности
+    // Default value: [false]
+    "entity.position": false,
+    // Отображать очки жизни
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "entity.health": true,
+    // Отображать очки поглощения
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "entity.absorption": true,
+    // Отображать очки брони
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "entity.armor": true,
+    // Компактный режим
+    // Отображать очки жизней и брони цифрами а не иконками
+    // Default value: [false]
+    "entity.compact": false,
+    // Максимум инокок на строку
+    // Количество иконок жизни и брони в строке перед началом следующей
+    // Default value: [25]
+    "entity.icon_per_line": 25,
+    // Максимум очков жизни для отображения
+    // Наибольшее число очков жизни для отображения в виде иконок, если у моба или игрока больше чем указано здесь, будут отображены цифры
+    // Default value: [100]
+    "entity.long_health_max": 100,
+    // Максимум очков брони для отображения
+    // Наибольшее число очков брони для отображения в виде иконок, если у моба или игрока больше чем указано здесь, будут отображены цифры
+    // Default value: [100]
+    "entity.long_armor_max": 100,
+    // Отображать владельца
+    // Только для лицензионных аккаунтов Minecraft
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "pet.owner": true,
+    // Скрыть если владелец неизвестен
+    // Default value: [false]
+    "pet.hide_unknown_owner": false,
+    // Отображать силу прыжка лошади
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "horse.jump_height": true,
+    // Отображать скорость лошади
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "horse.speed": true,
+    // Показывать характер панд
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "panda.genes": true,
+    // Отображать координаты улья
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "bee.hive_pos": true,
+    // Отображать уровень мёда
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "bee.hive_honey_level": true,
+    // Отображать количество пчел в улье и пасеке
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "bee.hive_occupants": true,
+    // Показать эффекты маяков
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "effect.beacon": true,
+    // Показать эффекты мобов
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "effect.mob": true,
+    // Показать скрытые эффекты мобов
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [false]
+    "effect.hidden_mob": false,
+    // Отображать играющую пластинку
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "jukebox.record": true,
+    // Отображать таймер роста мобов
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "timer.grow": true,
+    // Отображать таймер размножения
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "timer.breed": true,
+    // Скрывать невидимые сущности
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "override.invisible_entity": true,
+    // Отображать сундук-ловушку как обычный сундук
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "override.trapped_chest": true,
+    // Отображать рыхлый снег как обычный
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "override.powder_snow": true,
+    // Отображать заражённые блоки как обычные
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "override.infested": true,
+    // Скрыть транспорт
+    // Скрывать вагонетки, лошадей и прочие сущности, если игрок сидит на них
+    // Default value: [true]
+    "override.vehicle": true,
+    // Показывать прогресс ломания
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "breaking_progress.enabled": true,
+    // Цвет индикатора ломания
+    // Default value: [-1426063361]
+    "breaking_progress.color": -1426063361,
+    // Только снизу
+    // Default value: [false]
+    "breaking_progress.bottom_only": false,
+    // Отображать тип спаунера
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "spawner.type": true,
+    // Отображать зрелость урожая
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "plant.crop_progress": true,
+    // Отображать возможность роста культур
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "plant.crop_growable": true,
+    // Отображать возможность роста деревьев
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "plant.tree_growable": true,
+    // Отображать положение рычага
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "redstone.lever": true,
+    // Отображать задержку повторителя
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "redstone.repeater": true,
+    // Отображать режим компаратора
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "redstone.comparator": true,
+    // Отображать уровень сигнала
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "redstone.level": true,
+    // Отображать никнейм
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "player_head.name": true,
+    // Отображать уровень компоста
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "level.composter": true,
+    // Отображать инструмент и ноту
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "note_block.type": true,
+    // Режим отображения нот
+    // Default value: [SHARP]
+    // Available values: [SHARP, FLAT]
+    "note_block.note": "SHARP",
+    // Число
+    // Default value: [false]
+    "note_block.int_value": false,
+    // Показывать число книг на полке
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "book.bookshelf": true,
+    // Отображение зачарований
+    // Default value: [CYCLE]
+    // Available values: [SEPARATE, COMBINED, CYCLE, DISABLED]
+    "book.enchantment": "CYCLE",
+    // Время цикла (в миллисекундах)
+    // Default value: [500]
+    "book.enchantment_cycle_timing": 500,
+    // Показывать автора и дату записанных книг
+    // Default value: [true]
+    "book.written": true
+  },
+  harvest: {
+    // Отображать информацию для добычи
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    enabled: true,
+    // Режим отображения
+    // Default value: [MODERN]
+    // Available values: [MODERN, CLASSIC, CLASSIC_MINIMAL]
+    display_mode: "MODERN",
+    // Отображать в творческом режиме
+    // Default value: [false]
+    creative: false
+  },
+  mekanism: {
+    // config.waila.plugin_mekanism.energy
+    // Default value: [true]
+    energy: true,
+    // config.waila.plugin_mekanism.fluid
+    // Default value: [true]
+    fluid: true,
+    // config.waila.plugin_mekanism.gas
+    // Default value: [true]
+    gas: true,
+    // config.waila.plugin_mekanism.infuse_type
+    // Default value: [true]
+    infuse_type: true,
+    // config.waila.plugin_mekanism.pigment
+    // Default value: [true]
+    pigment: true,
+    // config.waila.plugin_mekanism.slurry
+    // Default value: [true]
+    slurry: true
+  },
+  wailax: {
+    // Энергия блоков
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "energy.enabled_block": true,
+    // Энергию сущностей
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "energy.enabled_entity": true,
+    // Черный список
+    // Custom config, open the following file
+    // extra\energy_blacklist.json5
+    "energy.blacklist": null,
+    // Жидкости в блоках
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "fluid.enabled_block": true,
+    // Жидкости в сущностях
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "fluid.enabled_entity": true,
+    // Единицы измерения
+    // Default value: [MILLIBUCKETS]
+    // Available values: [MILLIBUCKETS, DROPLETS]
+    "fluid.display_unit": "MILLIBUCKETS",
+    // Черный список
+    // Custom config, open the following file
+    // extra\fluid_blacklist.json5
+    "fluid.blacklist": null,
+    // Процесс крафта блоков
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "progress.enabled_block": true,
+    // Процесс крафта сущностей
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "progress.enabled_entity": true,
+    // Черный список
+    // Custom config, open the following file
+    // extra\progress_blacklist.json5
+    "progress.blacklist": null,
+    // Содержание блоков
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "item.enabled_block": true,
+    // Содержимое сущностей
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "item.enabled_entity": true,
+    // Синхронизировать NBT данные
+    // Require server to have WTHIT installed, if not, will be locked to [false]
+    // Default value: [true]
+    "item.nbt": true,
+    // Режим отображения
+    // Сетка: отображение подобно интерфейсу контейнера
+    // Список: отображение в виде списка
+    // Динамически: до заданной высоты отображение в виде сетки, дальше, в виде списка
+    // Default value: [DYNAMIC]
+    // Available values: [GRID, LIST, DYNAMIC]
+    "item.display_mode": "DYNAMIC",
+    // Максимальная высота
+    // Default value: [3]
+    "item.max_height": 3,
+    // Сортировать по количеству
+    // Default value: [true]
+    "item.sort_by_count": true,
+    // Grid Mode Scale
+    // Default value: [1.0]
+    "item.grid_mode_scale": 1.0,
+    // Черный список
+    // Custom config, open the following file
+    // extra\item_blacklist.json5
+    "item.blacklist": null
+  }
+}
