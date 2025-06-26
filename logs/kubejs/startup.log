@@ -1,8 +1,8 @@
-[14:11:22] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:11:22] [INIT] Loaded plugins:
-[14:11:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:11:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:11:22] [INIT] - committee.nova.mods.avaritia.init.compat.kubejs.KubeJSAvaritiaPlugin
-[14:11:24] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[14:11:24] [INFO] Loaded script startup_scripts:example.js in 0.432 s
-[14:11:24] [INFO] Loaded 1/1 KubeJS startup scripts in 2.099 s with 0 errors and 0 warnings
+[19:12:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:12:33] [INIT] Loaded plugins:
+[19:12:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:12:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:12:33] [INIT] - committee.nova.mods.avaritia.init.compat.kubejs.KubeJSAvaritiaPlugin
+[19:12:34] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[19:12:34] [INFO] Loaded script startup_scripts:example.js in 0.157 s
+[19:12:34] [INFO] Loaded 1/1 KubeJS startup scripts in 1.299 s with 0 errors and 0 warnings
