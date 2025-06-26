@@ -1,12 +1,8 @@
-# Игнорировать всю папку saves
 saves/
 
-# Игнорировать конкретные JSON-файлы
 usercache.json
 usernamecache.json
 
-# Игнорировать папку с шейдерами
 shaderpacks/
 
-# Игнорировать конфигурационный файл
 options.txt
