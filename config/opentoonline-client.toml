@@ -1,0 +1,18 @@
+
+["Open2Online config"]
+	#Server port. Default value is 25565.
+	Port = 25565
+	#Server max players. Default value is 8.
+	"Max Players" = 8
+	#Your last IP. Default value is "0.0.0.0".
+	"Last IP" = "0.0.0.0"
+	#Allow PVP on the server. Default value is true.
+	"Allow PVP" = true
+	#Port opening library. Don't change if everything works fine. 0 - Weupnp; 1 - WaifUPnP. Default value is 0.
+	Library = 0
+	#Enable whitelist mode. Default value is false.
+	Whitelist = false
+	#List of friends who can join the server if the whitelist mode is enabled.
+	#Example: ["MyFriend1", "Nickname", "BigFloppa"]
+	FriendList = []
+
