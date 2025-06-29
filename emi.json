@@ -1,9 +1,17 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:oak_planks",
+      "amount": 64
+    },
+    "item:travelersbackpack:diamond_tier_upgrade",
     "item:create:golden_sheet"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "minecraft:oak_slab"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},
