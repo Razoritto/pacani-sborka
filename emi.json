@@ -1,6 +1,16 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:avaritia:extreme_smithing_table",
+      "recipe": "avaritia:extreme_smithing_table"
+    }
+  ],
   "lookup_history": [
+    "item:create:empty_schematic",
+    "item:minecraft:crafting_table",
+    "item:avaritia:extreme_smithing_table",
+    "item:avaritia:extreme_crafting_table",
+    "item:packagedauto:recipe_holder",
     {
       "type": "item",
       "id": "minecraft:oak_planks",
@@ -10,10 +20,14 @@
     "item:create:golden_sheet"
   ],
   "craft_history": [
+    "minecraft:crafting_table",
+    "avaritia:extreme_smithing_table",
     "minecraft:oak_slab"
   ],
   "recipe_defaults": {
-    "added": [],
+    "added": [
+      "avaritia:extreme_smithing_table"
+    ],
     "tags": {},
     "resolutions": {},
     "disabled": []
