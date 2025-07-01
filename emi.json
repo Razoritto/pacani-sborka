@@ -3,9 +3,61 @@
     {
       "stack": "item:avaritia:extreme_smithing_table",
       "recipe": "avaritia:extreme_smithing_table"
+    },
+    {
+      "stack": "item:ae2:fluix_hoe{Damage:0}"
+    },
+    {
+      "stack": "item:ae2:fluix_axe{Damage:0}"
+    },
+    {
+      "stack": "item:mekanism:industrial_alarm"
     }
   ],
   "lookup_history": [
+    "item:exdeorum:porcelain_clay_ball",
+    "item:exdeorum:unfired_porcelain_bucket",
+    "item:exdeorum:porcelain_bucket",
+    "item:exdeorum:porcelain_lava_bucket",
+    "item:exdeorum:end_cake",
+    "item:exdeorum:compressed_blackstone",
+    "item:exdeorum:silver_ore_chunk",
+    "item:minecraft:diamond",
+    "item:ae2additions:super_cell_component_1k",
+    "item:ae2additions:super_cell_component_4k",
+    "item:ae2additions:super_cell_component_16k",
+    "item:ae2additions:super_cell_component_64k",
+    "item:ae2additions:super_cell_component_256k",
+    "item:ae2additions:super_cell_component_1024k",
+    "item:ae2additions:super_cell_component_4096k",
+    "item:ae2additions:super_cell_component_16m",
+    "item:ae2additions:super_cell_component_65m",
+    "item:ae2additions:super_cell_65m{}",
+    "item:exdeorum:mechanical_hammer",
+    "item:exdeorum:mechanical_sieve",
+    "item:farmersdelight:tomato",
+    "item:farmersdelight:tomato_crate",
+    "item:avaritia:infinity_catalyst",
+    "item:avaritia:infinity_ingot",
+    "item:avaritia:neutron_ingot",
+    "item:avaritia:infinity_chestplate",
+    "item:vinery:cherry",
+    "item:create:schematic_and_quill",
+    "item:vinery:red_grape_bag",
+    "item:avaritia:infinity_sword",
+    "item:avaritia:infinity_bucket",
+    "item:mekanism:alloy_atomic",
+    "item:mekanism:ultimate_infusing_factory",
+    {
+      "type": "jemi",
+      "uid": "infuse type:mekanism:diamond"
+    },
+    "item:twilightforest:maze_map_focus",
+    "item:twilightforest:uncrafting_table",
+    "item:minecraft:sculk_catalyst",
+    "item:immersiveengineering:plate_copper",
+    "#item:forge:plates/copper",
+    "item:immersiveengineering:wire_copper",
     "item:create:empty_schematic",
     "item:minecraft:crafting_table",
     "item:avaritia:extreme_smithing_table",

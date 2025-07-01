@@ -1,0 +1,14 @@
+// Compost colors for beer_craft. You may add your own colors, change existing ones, or remove colors that aren't needed.
+beer, #c0a179
+beer_mug, #c0a179
+cider, #be9079
+cider_mug, #be9079
+empty_mug, #9a785e
+golden_cider, #be9779
+golden_cider_mug, #be9779
+hops, #8ebb39
+hops_seeds, #b69366
+s_bmug, #c6aa89
+shiny_beer, #c6aa89
+vodka, #b49b89
+vodka_mug, #b49b89
