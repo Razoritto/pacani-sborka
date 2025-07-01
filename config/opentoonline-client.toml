@@ -9,7 +9,7 @@
 	#Allow PVP on the server. Default value is true.
 	"Allow PVP" = true
 	#Port opening library. Don't change if everything works fine. 0 - Weupnp; 1 - WaifUPnP. Default value is 0.
-	Library = 0
+	Library = 1
 	#Enable whitelist mode. Default value is false.
 	Whitelist = false
 	#List of friends who can join the server if the whitelist mode is enabled.

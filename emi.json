@@ -15,6 +15,21 @@
     }
   ],
   "lookup_history": [
+    "item:industrialforegoing:dryrubber",
+    "item:industrialforegoing:plastic",
+    "item:create:wheat_flour",
+    "item:create:dough",
+    "item:createaddition:cake_base",
+    "item:createaddition:cake_base_baked",
+    "item:createaddition:chocolate_cake",
+    {
+      "type": "item",
+      "id": "pamhc2foodcore:mixingbowlitem",
+      "remainder": "item:pamhc2foodcore:mixingbowlitem"
+    },
+    "#item:forge:salt",
+    "item:pamhc2foodcore:icecreamitem",
+    "item:pamhc2foodcore:caramelicecreamitem",
     "item:exdeorum:porcelain_clay_ball",
     "item:exdeorum:unfired_porcelain_bucket",
     "item:exdeorum:porcelain_bucket",
