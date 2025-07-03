@@ -15,6 +15,12 @@
     }
   ],
   "lookup_history": [
+    "item:mekanism:basic_control_circuit",
+    "item:mekanism:basic_logistical_transporter",
+    "item:mekanism:advanced_logistical_transporter",
+    "item:mekanism:elite_logistical_transporter",
+    "item:mekanism:alloy_atomic",
+    "item:mekanism:ultimate_logistical_transporter",
     "item:industrialforegoing:dryrubber",
     "item:industrialforegoing:plastic",
     "item:create:wheat_flour",
@@ -61,7 +67,6 @@
     "item:vinery:red_grape_bag",
     "item:avaritia:infinity_sword",
     "item:avaritia:infinity_bucket",
-    "item:mekanism:alloy_atomic",
     "item:mekanism:ultimate_infusing_factory",
     {
       "type": "jemi",
@@ -87,7 +92,12 @@
     "item:create:golden_sheet"
   ],
   "craft_history": [
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:stick",
+    "minecraft:wooden_sword",
     "minecraft:crafting_table",
+    "minecraft:cherry_planks",
     "avaritia:extreme_smithing_table",
     "minecraft:oak_slab"
   ],
