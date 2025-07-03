@@ -1,20 +1,103 @@
 {
   "favorites": [
     {
-      "stack": "item:avaritia:extreme_smithing_table",
-      "recipe": "avaritia:extreme_smithing_table"
+      "stack": "item:minecraft:smithing_table",
+      "recipe": "minecraft:smithing_table"
     },
     {
-      "stack": "item:ae2:fluix_hoe{Damage:0}"
-    },
-    {
-      "stack": "item:ae2:fluix_axe{Damage:0}"
-    },
-    {
-      "stack": "item:mekanism:industrial_alarm"
+      "stack": {
+        "type": "item",
+        "id": "travelersbackpack:blank_upgrade",
+        "amount": 4
+      },
+      "recipe": "travelersbackpack:blank_upgrade"
     }
   ],
   "lookup_history": [
+    "item:minecraft:potato",
+    "item:mekanism:hdpe_elytra{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:oak_log",
+      "amount": 31
+    },
+    "item:farmersdelight:hamburger",
+    {
+      "type": "item",
+      "id": "farmersdelight:tomato",
+      "amount": 2
+    },
+    "item:travelersbackpack:blank_upgrade",
+    "item:travelersbackpack:iron_tier_upgrade",
+    "#item:travelersbackpack:backpack_upgrades",
+    "item:travelersbackpack:standard{StarterUpgrades:{Items:[{Count:1b,id:\"travelersbackpack:tanks_upgrade\"}]},Tier:1}",
+    "item:minecraft:smithing_table",
+    "item:botania:world_seed",
+    "item:draconicevolution:overworld_draconium_ore",
+    "item:ae2:certus_quartz_dust",
+    "item:ae2:silicon",
+    "item:ae2:printed_silicon",
+    "item:ae2:printed_calculation_processor",
+    "item:ae2:calculation_processor_press",
+    "item:farmersdelight:cooked_rice",
+    {
+      "type": "item",
+      "id": "farmersdelight:rice",
+      "amount": 4
+    },
+    "item:farmersdelight:bacon_sandwich",
+    "item:farmersdelight:bacon",
+    "item:farmersdelight:cooked_bacon",
+    "item:ae2:fluix_hoe{Damage:0}",
+    "item:farmersdelight:egg_sandwich",
+    "item:farmersdelight:cutting_board",
+    "item:farmersdelight:pumpkin_slice",
+    "#item:forge:berries",
+    {
+      "type": "item",
+      "id": "vinery:cherry",
+      "amount": 5
+    },
+    "item:travelersbackpack:white_sleeping_bag",
+    "#item:travelersbackpack:sleeping_bags",
+    "item:industrialforegoing:infinity_backpack{CanCharge:1b,Energy:0L,Selected:\"POOR\",Special:0b}",
+    "item:waystones:orange_sharestone",
+    "item:waystones:white_sharestone",
+    "item:waystones:portstone",
+    "item:waystones:sharestone",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:waystones:waystone",
+    "item:waystones:mossy_waystone",
+    "item:minecraft:copper_ingot",
+    {
+      "type": "item",
+      "id": "minecraft:raw_copper",
+      "amount": 50
+    },
+    "item:minecraft:terracotta",
+    {
+      "type": "item",
+      "id": "pamhc2foodcore:juiceritem",
+      "remainder": "item:pamhc2foodcore:juiceritem"
+    },
+    "item:pamhc2foodcore:mayonaiseitem",
+    "item:pamhc2foodcore:baconcheeseburgeritem",
+    "item:avaritia:diamond_lattice",
+    "item:avaritia:blaze_cube",
+    "item:avaritia:blaze_axe{Damage:0}",
+    {
+      "type": "item",
+      "id": "pamhc2foodcore:grinderitem",
+      "remainder": "item:pamhc2foodcore:grinderitem"
+    },
+    "item:pamhc2foodcore:groundbeefitem",
+    {
+      "type": "item",
+      "id": "supplementaries:ash",
+      "amount": 2
+    },
+    "item:patchouli:guide_book{\"patchouli:book\":\"hexcasting:thehexbook\"}",
+    "item:patchouli:guide_book{\"patchouli:book\":\"divinerpg:divine\"}",
     "item:mekanism:basic_control_circuit",
     "item:mekanism:basic_logistical_transporter",
     "item:mekanism:advanced_logistical_transporter",
@@ -56,13 +139,11 @@
     "item:ae2additions:super_cell_65m{}",
     "item:exdeorum:mechanical_hammer",
     "item:exdeorum:mechanical_sieve",
-    "item:farmersdelight:tomato",
     "item:farmersdelight:tomato_crate",
     "item:avaritia:infinity_catalyst",
     "item:avaritia:infinity_ingot",
     "item:avaritia:neutron_ingot",
     "item:avaritia:infinity_chestplate",
-    "item:vinery:cherry",
     "item:create:schematic_and_quill",
     "item:vinery:red_grape_bag",
     "item:avaritia:infinity_sword",
@@ -92,11 +173,34 @@
     "item:create:golden_sheet"
   ],
   "craft_history": [
+    "minecraft:iron_pickaxe",
+    "minecraft:oak_boat",
+    "cfm:oak_upgraded_gate",
+    "minecraft:oak_fence_gate",
+    "cfm:oak_upgraded_fence",
+    "minecraft:stick",
+    "minecraft:oak_planks",
+    "minecraft:smithing_table",
+    "travelersbackpack:standard_no_tanks",
+    "minecraft:chest",
+    "travelersbackpack:white_sleeping_bag",
+    "minecraft:iron_axe",
+    "farmersdelight:tomato_seeds",
+    "minecraft:bone_meal",
+    "divinerpg:shaped/realmite_shovel",
+    "minecraft:bucket",
+    "minecraft:iron_hoe",
+    "minecraft:white_bed",
+    "minecraft:crafting_table",
+    "divinerpg:shaped/realmite_pickaxe",
+    "minecraft:iron_sword",
+    "minecraft:torch",
+    "minecraft:furnace",
+    "minecraft:bread",
+    "minecraft:wheat",
     "minecraft:stone_pickaxe",
     "minecraft:wooden_pickaxe",
-    "minecraft:stick",
     "minecraft:wooden_sword",
-    "minecraft:crafting_table",
     "minecraft:cherry_planks",
     "avaritia:extreme_smithing_table",
     "minecraft:oak_slab"
