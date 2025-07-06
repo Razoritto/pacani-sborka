@@ -41,6 +41,11 @@
     }
   ],
   "lookup_history": [
+    "item:pipez:item_pipe",
+    "item:industrialforegoing:latex_processing_unit",
+    "item:industrialforegoing:dryrubber",
+    "item:industrialforegoing:plastic",
+    "item:industrialforegoing:mob_imprisonment_tool",
     "item:minecraft:hopper",
     "item:mekanism:energy_tablet",
     "item:mekanism:configurator",
@@ -52,7 +57,7 @@
       "amount": 64
     },
     "item:exdeorum:mechanical_hammer",
-    "item:exdeorum:wooden_hammer",
+    "item:exdeorum:wooden_hammer{Damage:0}",
     "#item:exdeorum:hammers",
     "item:exdeorum:mechanical_sieve",
     "item:minecraft:gravel",
@@ -655,9 +660,6 @@
     "item:industrialforegoing:pink_slime_bucket",
     "item:industrialforegoing:infinity_drill{CanCharge:1b,Energy:0L,Fluid:{Amount:0,FluidName:\"biofuel\"},Selected:\"POOR\",Special:0b}",
     "item:industrialforegoing:machine_frame_pity",
-    "item:industrialforegoing:latex_processing_unit",
-    "item:industrialforegoing:dryrubber",
-    "item:industrialforegoing:plastic",
     "item:industrialforegoing:plant_fertilizer",
     "item:industrialforegoing:fertilizer",
     "item:mekanism:enriched_iron",
