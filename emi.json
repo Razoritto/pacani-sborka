@@ -25,105 +25,6 @@
       "recipe": "jei:/farmersdelight/cooking/dumplings"
     },
     {
-      "stack": "item:minecraft:written_book{author:\"Schematicannon\",display:{Name:\u0027{\"italic\":false,\"color\":\"blue\",\"translate\":\"create.materialChecklist\"}\u0027},pages:[\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:cobblestone\"}},\"translate\":\"block.minecraft.cobblestone\"},{\"color\":\"black\",\"text\":\"\\\\n x1666\"},{\"color\":\"gray\",\"text\":\" | 26? +2\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_log\"}},\"translate\":\"block.minecraft.oak_log\"},{\"color\":\"black\",\"text\":\"\\\\n x1895\"},{\"color\":\"gray\",\"text\":\" | 29? +39\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_planks\"}},\"translate\":\"block.minecraft.oak_planks\"},{\"color\":\"black\",\"text\":\"\\\\n x4374\"},{\"color\":\"gray\",\"text\":\" | 68? +22\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_stairs\"}},\"translate\":\"block.minecraft.oak_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x2779\"},{\"color\":\"gray\",\"text\":\" | 43? +27\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:grass_block\"}},\"translate\":\"block.minecraft.grass_block\"},{\"color\":\"black\",\"text\":\"\\\\n x2441\"},{\"color\":\"gray\",\"text\":\" | 38? +9\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_sign\"}},\"translate\":\"block.minecraft.spruce_sign\"},{\"color\":\"black\",\"text\":\"\\\\n x152\"},{\"color\":\"gray\",\"text\":\" | 2? +24\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_planks\"}},\"translate\":\"block.minecraft.spruce_planks\"},{\"color\":\"black\",\"text\":\"\\\\n x505\"},{\"color\":\"gray\",\"text\":\" | 7? +57\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_stairs\"}},\"translate\":\"block.minecraft.spruce_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x709\"},{\"color\":\"gray\",\"text\":\" | 11? +5\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_trapdoor\"}},\"translate\":\"block.minecraft.spruce_trapdoor\"},{\"color\":\"black\",\"text\":\"\\\\n x372\"},{\"color\":\"gray\",\"text\":\" | 5? +52\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"cfm:spruce_upgraded_fence\"}},\"translate\":\"block.cfm.spruce_upgraded_fence\"},{\"color\":\"black\",\"text\":\"\\\\n x37\"},{\"color\":\"gray\",\"text\":\" | 0? +37\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:dirt\"}},\"translate\":\"block.minecraft.dirt\"},{\"color\":\"black\",\"text\":\"\\\\n x206\"},{\"color\":\"gray\",\"text\":\" | 3? +14\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stone_bricks\"}},\"translate\":\"block.minecraft.stone_bricks\"},{\"color\":\"black\",\"text\":\"\\\\n x402\"},{\"color\":\"gray\",\"text\":\" | 6? +18\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:flowering_azalea_leaves\"}},\"translate\":\"block.minecraft.flowering_azalea_leaves\"},{\"color\":\"black\",\"text\":\"\\\\n x92\"},{\"color\":\"gray\",\"text\":\" | 1? +28\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stripped_oak_log\"}},\"translate\":\"block.minecraft.stripped_oak_log\"},{\"color\":\"black\",\"text\":\"\\\\n x1920\"},{\"color\":\"gray\",\"text\":\" | 30? +0\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:glass_pane\"}},\"translate\":\"block.minecraft.glass_pane\"},{\"color\":\"black\",\"text\":\"\\\\n x428\"},{\"color\":\"gray\",\"text\":\" | 6? +44\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stone_brick_stairs\"}},\"translate\":\"block.minecraft.stone_brick_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x147\"},{\"color\":\"gray\",\"text\":\" | 2? +19\\\\n\"}],\"text\":\"\"}],\"text\":\"\"}\u0027],readonly:1b,resolved:1b,title:\"§9Material Checklist\"}"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_helmet",
-      "recipe": "mekanism:mekasuit_helmet"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_bodyarmor",
-      "recipe": "mekanism:mekasuit_bodyarmor"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_pants",
-      "recipe": "mekanism:mekasuit_pants"
-    },
-    {
-      "stack": "item:mekanism:mekasuit_boots",
-      "recipe": "mekanism:mekasuit_boots"
-    },
-    {
-      "stack": "item:ae2:molecular_assembler",
-      "recipe": "ae2:network/crafting/molecular_assembler"
-    },
-    {
-      "stack": "item:ae2:logic_processor",
-      "recipe": "jei:/ae2/inscriber/logic_processor"
-    },
-    {
-      "stack": "item:expatternprovider:pattern_provider_upgrade",
-      "recipe": "expatternprovider:epp_upgrade"
-    },
-    {
-      "stack": "item:ae2:pattern_provider",
-      "recipe": "ae2:network/blocks/pattern_providers_interface"
-    },
-    {
-      "stack": "item:ae2:interface",
-      "recipe": "ae2:network/blocks/interfaces_interface"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "ae2:quartz_fiber",
-        "amount": 3
-      },
-      "recipe": "ae2:network/parts/quartz_fiber_part"
-    },
-    {
-      "stack": "item:mekanism:basic_control_circuit",
-      "recipe": "jei:/mekanism/control_circuit/basic"
-    },
-    {
-      "stack": "item:ae2additions:me_wireless_transceiver",
-      "recipe": "ae2additions:blocks/wireless_transceiver"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "ae2:cable_anchor",
-        "amount": 4
-      },
-      "recipe": "ae2:network/parts/cable_anchor"
-    },
-    {
-      "stack": "item:ae2:nether_quartz_cutting_knife{Damage:0}",
-      "recipe": "ae2:tools/nether_quartz_cutting_knife"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "solarflux:photovoltaic_cell_5",
-        "amount": 2
-      },
-      "recipe": "solarflux:photovoltaic_cell_5"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "solarflux:sp_7",
-        "amount": 2
-      },
-      "recipe": "solarflux:solar_panel_7"
-    },
-    {
-      "stack": "item:mekanism:advanced_energy_cube",
-      "recipe": "mekanism:energy_cube/advanced"
-    },
-    {
-      "stack": "item:mekanism:elite_energy_cube",
-      "recipe": "mekanism:energy_cube/elite"
-    },
-    {
-      "stack": "item:mekanism:ultimate_energy_cube",
-      "recipe": "mekanism:energy_cube/ultimate"
-    },
-    {
-      "stack": "item:mekanism:basic_energy_cube",
-      "recipe": "mekanism:energy_cube/basic"
-    },
-    {
       "stack": "item:minecraft:end_crystal",
       "recipe": "minecraft:end_crystal"
     },
@@ -140,10 +41,6 @@
       "recipe": "ae2:network/cells/item_cell_housing"
     },
     {
-      "stack": "item:quarryplus:adv_quarry",
-      "recipe": "jei:/quarryplus/adv_quarry"
-    },
-    {
       "stack": "item:ae2additions:cell_component_1024",
       "recipe": "ae2additions:components/1024k"
     },
@@ -154,9 +51,179 @@
         "amount": 3
       },
       "recipe": "waystones:warp_scroll"
+    },
+    {
+      "stack": "item:immersiveengineering:cloche",
+      "recipe": "immersiveengineering:crafting/cloche"
+    },
+    {
+      "stack": "item:immersiveengineering:workbench",
+      "recipe": "immersiveengineering:crafting/workbench"
+    },
+    {
+      "stack": "item:immersiveengineering:craftingtable",
+      "recipe": "immersiveengineering:crafting/craftingtable"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "immersiveengineering:treated_wood_horizontal",
+        "amount": 8
+      },
+      "recipe": "immersiveengineering:crafting/treated_wood_horizontal"
+    },
+    {
+      "stack": "item:immersiveengineering:blueprint{blueprint:\"components\"}",
+      "recipe": "immersiveengineering:crafting/blueprint_components"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "immersiveengineering:fluid_pipe",
+        "amount": 8
+      },
+      "recipe": "immersiveengineering:crafting/fluid_pipe"
+    },
+    {
+      "stack": "item:immersiveengineering:revolver",
+      "recipe": "immersiveengineering:crafting/revolver"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "immersiveengineering:dragons_breath",
+        "amount": 4
+      },
+      "recipe": "jei:/immersiveengineering/blueprint/bullet_dragonsbreath"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "immersiveengineering:empty_shell",
+        "amount": 3
+      },
+      "recipe": "immersiveengineering:crafting/empty_shell"
+    },
+    {
+      "stack": "item:immersiveengineering:plate_copper",
+      "recipe": "immersiveengineering:crafting/plate_copper_hammering"
+    },
+    {
+      "stack": "item:mekanism:ingot_steel",
+      "recipe": "mekanism:processing/steel/ingot/from_dust_smelting"
+    },
+    {
+      "stack": "item:mekanism:dust_steel",
+      "recipe": "jei:/mekanism/processing/steel/enriched_iron_to_dust"
+    },
+    {
+      "stack": "item:mekanism:enriched_iron"
+    },
+    {
+      "stack": "item:mekanism:enriched_iron",
+      "recipe": "jei:/mekanism/processing/iron/enriched"
+    },
+    {
+      "stack": "item:minecraft:iron_ingot"
+    },
+    {
+      "stack": "item:ae2:crafting_accelerator",
+      "recipe": "ae2:network/crafting/cpu_crafting_accelerator"
+    },
+    {
+      "stack": "item:mekanism:basic_control_circuit",
+      "recipe": "jei:/mekanism/control_circuit/basic"
+    },
+    {
+      "stack": "item:mekanism:advanced_control_circuit",
+      "recipe": "mekanism:control_circuit/advanced"
+    },
+    {
+      "stack": "item:mekanism:alloy_infused",
+      "recipe": "jei:/mekanism/metallurgic_infusing/alloy/infused"
+    },
+    {
+      "stack": "item:mekanism:alloy_reinforced",
+      "recipe": "jei:/mekanism/metallurgic_infusing/alloy/reinforced"
     }
   ],
   "lookup_history": [
+    "item:ae2:fluix_crystal",
+    "item:ae2:certus_quartz_crystal",
+    "item:minecraft:diamond",
+    "item:mekanism:alloy_reinforced",
+    "item:minecraft:lava_bucket",
+    "item:mekanism:crusher",
+    "item:mekanism:upgrade_speed",
+    "item:expatternprovider:caner",
+    "item:mekanism:alloy_infused",
+    "item:mekanism:advanced_control_circuit",
+    "item:mekanism:basic_control_circuit",
+    "item:botania:redstone_root",
+    "item:ae2:crafting_unit",
+    "item:ae2:crafting_accelerator",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:waystones:waystone",
+    "item:mekanism:enriched_iron",
+    "item:mekanism:dust_steel",
+    "#item:forge:dusts/steel",
+    "item:mekanism:ingot_steel",
+    "item:ae2:advanced_card",
+    "item:ae2:speed_card",
+    "item:ae2:certus_quartz_cutting_knife{Damage:0}",
+    "#item:ae2:knife",
+    "item:ae2:cable_anchor",
+    "item:minecraft:chest",
+    "item:draconicevolution:draconium_chest",
+    "item:solarflux:mirror",
+    "item:solarflux:sp_1",
+    "item:mekanismgenerators:advanced_solar_generator",
+    "item:mekanism:meka_tool",
+    "item:immersiveengineering:fertilizer",
+    "item:solarflux:sp_de.wyvern",
+    "item:avaritia:record_fragment",
+    "item:avaritia:singularity{Id:\"avaritia:tin\"}",
+    "item:mekanism:ingot_tin",
+    {
+      "type": "item",
+      "id": "mekanism:raw_tin",
+      "amount": 64
+    },
+    "item:mekanism:advanced_infusing_factory",
+    "item:mekanism:basic_infusing_factory",
+    "item:minecraft:furnace",
+    "item:mekanism:metallurgic_infuser",
+    "item:immersiveengineering:plate_steel",
+    "item:immersiveengineering:gunpart_drum",
+    "item:immersiveengineering:revolver",
+    "item:immersiveengineering:plate_copper",
+    "#item:forge:plates/copper",
+    {
+      "type": "item",
+      "id": "immersiveengineering:empty_shell",
+      "amount": 4
+    },
+    "item:immersiveengineering:flare",
+    "item:immersiveengineering:dragons_breath",
+    "item:immersiveengineering:plate_iron",
+    "#item:forge:plates/iron",
+    "item:immersiveengineering:fluid_pipe",
+    "item:immersiveengineering:seed",
+    "item:immersiveengineering:component_iron",
+    "item:immersiveengineering:cloche",
+    "item:immersiveengineering:light_bulb",
+    "#item:forge:glass",
+    "item:immersiveengineering:blueprint{blueprint:\"components\"}",
+    "item:immersiveengineering:workbench",
+    "item:immersiveengineering:treated_wood_horizontal",
+    "#item:forge:treated_wood",
+    "item:immersiveengineering:stick_treated",
+    "item:immersiveengineering:craftingtable",
+    "item:immersiveengineering:slab_treated_wood_horizontal",
+    "#item:forge:treated_wood_slab",
+    "item:immersiveengineering:hemp_fiber",
+    "item:minecraft:string",
+    "item:ae2:fluix_glass_cable",
     "item:avaritia:extreme_anvil",
     "item:avaritia:neutron_ingot",
     "item:avaritia:neutron_nugget",
@@ -185,7 +252,6 @@
       "id": "solarflux:sp_de.draconic",
       "amount": 2
     },
-    "item:solarflux:sp_de.wyvern",
     "item:ae2additions:cell_component_16384",
     "item:ae2additions:cell_component_4096",
     "item:ae2:cell_component_256k",
@@ -229,7 +295,6 @@
     },
     "item:mekanism:free_runners",
     "item:mekanism:hdpe_elytra{Damage:0}",
-    "item:mekanism:meka_tool",
     "item:mekanism:mekasuit_bodyarmor",
     "item:mekanism:jetpack",
     "item:mekanism:jetpack_armored{mekData:{GasTanks:[{Tank:0b,stored:{amount:23347L,gasName:\"mekanism:hydrogen\"}}],mode:0}}",
@@ -288,21 +353,15 @@
     "item:exdeorum:diamond_mesh",
     "item:exdeorum:jungle_sieve",
     "item:ae2:nether_quartz_cutting_knife{Damage:0}",
-    "item:ae2:certus_quartz_cutting_knife{Damage:0}",
-    "#item:ae2:knife",
-    "item:ae2:cable_anchor",
     "item:minecraft:respawn_anchor",
     "item:ae2:fluix_pearl",
     "item:ae2:wireless_receiver",
     "item:ae2additions:me_wireless_transceiver",
-    "item:mekanism:alloy_reinforced",
-    "item:mekanism:basic_control_circuit",
     "item:mekanism:basic_logistical_transporter",
     "item:mekanism:advanced_logistical_transporter",
     "item:minecraft:stick",
     "item:exdeorum:wooden_hammer{Damage:0}",
     "item:exdeorum:diamond_hammer{Damage:0}",
-    "item:minecraft:chest",
     "item:minecraft:hopper",
     "item:minecraft:iron_bars",
     "item:botania:dirt_rod",
@@ -315,7 +374,6 @@
       "amount": 9
     },
     "item:ae2:quartz_fiber",
-    "item:ae2:fluix_glass_cable",
     "item:ae2:fluix_covered_cable",
     "item:ae2:fluix_smart_cable",
     "item:ae2:brown_smart_cable",
@@ -388,11 +446,8 @@
     "item:solarflux:sp_3",
     "item:minecraft:piston",
     "item:solarflux:sp_2",
-    "item:solarflux:mirror",
-    "item:solarflux:sp_1",
     "item:minecraft:spruce_log",
     "#item:forge:rods/wooden",
-    "item:minecraft:diamond",
     "item:ae2:fluix_dust",
     "item:ae2:wireless_terminal",
     "item:ae2:wireless_crafting_terminal",
@@ -453,7 +508,6 @@
       "id": "forge:fuels",
       "amount": 2
     },
-    "item:mekanism:alloy_infused",
     "item:mekanism:enrichment_chamber",
     "item:mekanism:steel_casing",
     "item:mekanism:basic_chemical_tank",
@@ -484,8 +538,6 @@
     },
     "item:exdeorum:deepslate_pebble",
     "item:ae2additions:super_cell_component_256k",
-    "item:immersiveengineering:treated_wood_horizontal",
-    "#item:forge:treated_wood",
     "item:immersiveengineering:crate",
     {
       "type": "item",
@@ -498,7 +550,6 @@
     "item:minecraft:stone_brick_stairs",
     "item:mekanism:elite_control_circuit",
     "item:mekanism:elite_smelting_factory",
-    "item:mekanism:advanced_control_circuit",
     "item:mekanism:advanced_smelting_factory",
     "item:mekanism:energized_smelter",
     "item:mekanism:basic_smelting_factory",
@@ -520,7 +571,6 @@
     },
     "item:minecraft:milk_bucket",
     "item:botania:cosmetic_tiny_potato_mask",
-    "item:mekanism:upgrade_speed",
     {
       "type": "item",
       "id": "ae2:blank_pattern",
@@ -552,11 +602,7 @@
     },
     "item:immersiveengineering:coal_coke",
     "item:minecraft:charcoal",
-    "item:ae2:fluix_crystal",
-    "item:ae2:speed_card",
-    "item:ae2:advanced_card",
     "item:ae2:calculation_processor",
-    "item:ae2:crafting_unit",
     {
       "type": "item",
       "id": "minecraft:grass_block",
@@ -586,15 +632,12 @@
     "item:minecraft:azalea",
     "item:minecraft:obsidian",
     "item:minecraft:azalea_leaves",
-    "item:waystones:waystone",
-    "item:waystones:warp_stone{Damage:0}",
     "item:waystones:mossy_waystone",
     "item:alexsmobs:tarantula_hawk_wing_fragment",
     "item:alexsmobs:tarantula_hawk_wing",
     "item:farmersdelight:minced_beef",
     "item:farmersdelight:beef_patty",
     "item:farmersdelight:hamburger",
-    "item:minecraft:string",
     "#item:minecraft:planks",
     {
       "type": "item",
@@ -635,7 +678,6 @@
     "#item:forge:chests/wooden",
     "item:exdeorum:mechanical_hammer",
     "#item:exdeorum:hammers",
-    "item:ae2:certus_quartz_crystal",
     "item:ae2wtlib:quantum_bridge_card",
     "item:botania:infinite_fruit",
     "item:ae2:quartz_cluster",
@@ -705,7 +747,6 @@
     "item:minecraft:blue_dye",
     "item:mekanism:electric_bow",
     "item:minecraft:barrel",
-    "item:immersiveengineering:revolver",
     "item:mekanismtools:refined_obsidian_sword{Damage:0}",
     {
       "type": "item",
@@ -1000,7 +1041,6 @@
       "id": "create:limestone",
       "amount": 3
     },
-    "item:mekanismgenerators:advanced_solar_generator",
     "item:minecraft:blackstone",
     "item:mekanismgenerators:wind_generator",
     "item:mekanismgenerators:solar_generator",
@@ -1043,9 +1083,7 @@
     "item:mekanism:basic_purifying_factory",
     "item:mekanism:purification_chamber",
     "#item:forge:dusts/obsidian",
-    "item:mekanism:crusher",
     "item:minecraft:prismarine_shard",
-    "item:minecraft:furnace",
     "item:draconicevolution:overworld_draconium_ore",
     "#item:forge:ores/draconium",
     "item:twilightforest:ore_magnet{Damage:0}",
@@ -1071,10 +1109,6 @@
     "item:industrialforegoing:infinity_drill{CanCharge:1b,Energy:0L,Fluid:{Amount:0,FluidName:\"biofuel\"},Selected:\"POOR\",Special:0b}",
     "item:industrialforegoing:plant_fertilizer",
     "item:industrialforegoing:fertilizer",
-    "item:mekanism:enriched_iron",
-    "item:mekanism:dust_steel",
-    "#item:forge:dusts/steel",
-    "item:mekanism:ingot_steel",
     "item:minecraft:gunpowder",
     "item:minecraft:dispenser",
     "item:create:schematicannon",
@@ -1108,8 +1142,6 @@
       "id": "minecraft:coal",
       "amount": 22
     },
-    "item:mekanism:metallurgic_infuser",
-    "item:draconicevolution:draconium_chest",
     "item:immersiveengineering:dust_steel",
     "item:immersiveengineering:ingot_steel",
     "#item:forge:nuggets/steel",
@@ -1174,11 +1206,6 @@
     "item:botania:black_petal",
     "#item:botania:petals/black",
     "item:travelersbackpack:iron_tier_upgrade",
-    {
-      "type": "item",
-      "id": "immersiveengineering:hemp_fiber",
-      "amount": 18
-    },
     "item:ae2:sky_stone_block",
     "item:chunkloaders:ultimate_chunk_loader",
     "item:chunkloaders:advanced_chunk_loader",
@@ -1257,14 +1284,43 @@
       "uid": "infuse type:mekanism:diamond"
     },
     "item:minecraft:sculk_catalyst",
-    "item:immersiveengineering:plate_copper",
-    "#item:forge:plates/copper",
     "item:immersiveengineering:wire_copper",
     "item:packagedauto:recipe_holder",
     "item:travelersbackpack:diamond_tier_upgrade",
     "item:create:golden_sheet"
   ],
   "craft_history": [
+    "mekanism:factory/elite/crushing",
+    "mekanism:factory/advanced/crushing",
+    "mekanism:crusher",
+    "mekanism:factory/basic/crushing",
+    "mekanism:upgrade/energy",
+    "mekanism:upgrade/speed",
+    "mekanism:control_circuit/advanced",
+    "ae2:network/crafting/cpu_crafting_accelerator",
+    "waystones:mossy_waystone",
+    "waystones:warp_stone",
+    "ae2:materials/cardspeed",
+    "ae2:materials/advancedcard",
+    "ae2:network/parts/cable_anchor",
+    "ae2:tools/nether_quartz_cutting_knife",
+    "minecraft:chest",
+    "solarflux:solar_panel_1",
+    "solarflux:mirror",
+    "mekanism:factory/elite/infusing",
+    "mekanism:factory/advanced/infusing",
+    "mekanism:factory/basic/infusing",
+    "minecraft:furnace",
+    "mekanism:metallurgic_infuser",
+    "immersiveengineering:crafting/fluid_pipe",
+    "immersiveengineering:crafting/plate_iron_hammering",
+    "immersiveengineering:crafting/cloche",
+    "immersiveengineering:crafting/component_iron",
+    "immersiveengineering:crafting/blueprint_components",
+    "immersiveengineering:crafting/workbench",
+    "immersiveengineering:crafting/craftingtable",
+    "immersiveengineering:crafting/treated_wood_horizontal",
+    "ae2:network/cables/covered_fluix",
     "waystones:warp_scroll",
     "minecraft:purple_dye",
     "ae2additions:components/65536k",
@@ -1306,8 +1362,6 @@
     "expatternprovider:ex_drive_upgrade",
     "exdeorum:diamond_mesh",
     "exdeorum:diamond_hammer",
-    "ae2:network/parts/cable_anchor",
-    "ae2:tools/nether_quartz_cutting_knife",
     "ae2:misc/fluixpearl",
     "ae2:network/wireless_part",
     "ae2additions:blocks/wireless_transceiver",
@@ -1318,7 +1372,6 @@
     "minecraft:stick",
     "exdeorum:wooden_hammer",
     "exdeorum:mechanical_hammer",
-    "minecraft:chest",
     "minecraft:hopper",
     "minecraft:iron_bars",
     "exdeorum:mechanical_sieve",
@@ -1368,13 +1421,10 @@
     "solarflux:solar_panel_3",
     "minecraft:piston",
     "solarflux:solar_panel_2",
-    "solarflux:mirror",
-    "solarflux:solar_panel_1",
     "minecraft:paper",
     "ae2:network/upgrade_wireless_crafting_terminal",
     "minecraft:spruce_planks",
     "mekanism:hdpe_elytra",
-    "mekanism:upgrade/energy",
     "mekanism:rotary_condensentrator",
     "mekanism:fluid_tank/basic",
     "mekanism:chemical_tank/basic",
@@ -1395,21 +1445,16 @@
     "minecraft:spruce_trapdoor",
     "ae2:network/cells/item_storage_cell_256k",
     "immersiveengineering:crafting/crate",
-    "immersiveengineering:crafting/treated_wood_horizontal",
     "ae2:network/wireless_booster",
     "minecraft:polished_deepslate",
     "minecraft:stonecutter",
     "minecraft:stone_brick_stairs",
     "mekanism:factory/elite/smelting",
     "mekanism:control_circuit/elite",
-    "mekanism:control_circuit/advanced",
     "mekanism:factory/advanced/smelting",
     "mekanism:factory/basic/smelting",
     "mekanism:energized_smelter",
-    "mekanism:upgrade/speed",
     "exdeorum:gold_ore",
-    "ae2:materials/cardspeed",
-    "ae2:materials/advancedcard",
     "ae2:network/cells/item_storage_components_cell_256k_part",
     "ae2:network/cells/item_storage_components_cell_64k_part",
     "ae2:network/cells/item_storage_components_cell_16k_part",
@@ -1422,7 +1467,6 @@
     "ae2:network/crafting/cpu_crafting_unit",
     "create:crafting/schematics/schematic_table",
     "waystones:waystone",
-    "waystones:warp_stone",
     "minecraft:minecart",
     "minecraft:shears",
     "minecraft:white_carpet",
@@ -1505,10 +1549,7 @@
     "solarflux:sp_1",
     "cfm:spruce_upgraded_gate",
     "minecraft:bone_meal",
-    "minecraft:furnace",
     "minecraft:acacia_planks",
-    "mekanism:crusher",
-    "mekanism:metallurgic_infuser",
     "minecraft:smoker",
     "minecraft:polished_andesite",
     "minecraft:gold_nugget",
