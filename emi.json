@@ -1,192 +1,297 @@
 {
   "favorites": [
     {
-      "stack": "item:minecraft:smithing_table",
-      "recipe": "minecraft:smithing_table"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "travelersbackpack:blank_upgrade",
-        "amount": 4
-      },
-      "recipe": "travelersbackpack:blank_upgrade"
-    },
-    {
       "stack": "item:farmersdelight:hamburger",
       "recipe": "farmersdelight:hamburger"
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "farmersdelight:dumplings",
-        "amount": 2
-      },
-      "recipe": "jei:/farmersdelight/cooking/dumplings"
+      "stack": "item:botania:lexicon",
+      "recipe": "botania:lexicon"
     },
     {
-      "stack": "item:minecraft:end_crystal",
-      "recipe": "minecraft:end_crystal"
+      "stack": "item:botania:pure_daisy",
+      "recipe": "botania:petal_apothecary/pure_daisy"
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "solarflux:sp_de.wyvern",
-        "amount": 2
-      },
-      "recipe": "solarflux:solar_panels/draconicevolution/wyvern"
+      "stack": "item:botania:apothecary_default",
+      "recipe": "botania:apothecary_default"
     },
     {
-      "stack": "item:ae2:item_cell_housing",
-      "recipe": "ae2:network/cells/item_cell_housing"
+      "stack": "item:botania:flower_bag",
+      "recipe": "botania:flower_bag"
     },
     {
-      "stack": "item:ae2additions:cell_component_1024",
-      "recipe": "ae2additions:components/1024k"
+      "stack": "item:ae2:export_bus",
+      "recipe": "ae2:network/parts/export_bus"
     },
     {
-      "stack": {
-        "type": "item",
-        "id": "waystones:warp_scroll",
-        "amount": 3
-      },
-      "recipe": "waystones:warp_scroll"
-    },
-    {
-      "stack": "item:immersiveengineering:cloche",
-      "recipe": "immersiveengineering:crafting/cloche"
-    },
-    {
-      "stack": "item:immersiveengineering:workbench",
-      "recipe": "immersiveengineering:crafting/workbench"
-    },
-    {
-      "stack": "item:immersiveengineering:craftingtable",
-      "recipe": "immersiveengineering:crafting/craftingtable"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "immersiveengineering:treated_wood_horizontal",
-        "amount": 8
-      },
-      "recipe": "immersiveengineering:crafting/treated_wood_horizontal"
-    },
-    {
-      "stack": "item:immersiveengineering:blueprint{blueprint:\"components\"}",
-      "recipe": "immersiveengineering:crafting/blueprint_components"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "immersiveengineering:fluid_pipe",
-        "amount": 8
-      },
-      "recipe": "immersiveengineering:crafting/fluid_pipe"
-    },
-    {
-      "stack": "item:immersiveengineering:revolver",
-      "recipe": "immersiveengineering:crafting/revolver"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "immersiveengineering:dragons_breath",
-        "amount": 4
-      },
-      "recipe": "jei:/immersiveengineering/blueprint/bullet_dragonsbreath"
-    },
-    {
-      "stack": {
-        "type": "item",
-        "id": "immersiveengineering:empty_shell",
-        "amount": 3
-      },
-      "recipe": "immersiveengineering:crafting/empty_shell"
-    },
-    {
-      "stack": "item:immersiveengineering:plate_copper",
-      "recipe": "immersiveengineering:crafting/plate_copper_hammering"
-    },
-    {
-      "stack": "item:mekanism:ingot_steel",
-      "recipe": "mekanism:processing/steel/ingot/from_dust_smelting"
-    },
-    {
-      "stack": "item:mekanism:dust_steel",
-      "recipe": "jei:/mekanism/processing/steel/enriched_iron_to_dust"
-    },
-    {
-      "stack": "item:mekanism:enriched_iron"
-    },
-    {
-      "stack": "item:mekanism:enriched_iron",
-      "recipe": "jei:/mekanism/processing/iron/enriched"
-    },
-    {
-      "stack": "item:minecraft:iron_ingot"
-    },
-    {
-      "stack": "item:ae2:crafting_accelerator",
-      "recipe": "ae2:network/crafting/cpu_crafting_accelerator"
-    },
-    {
-      "stack": "item:mekanism:basic_control_circuit",
-      "recipe": "jei:/mekanism/control_circuit/basic"
-    },
-    {
-      "stack": "item:mekanism:advanced_control_circuit",
-      "recipe": "mekanism:control_circuit/advanced"
-    },
-    {
-      "stack": "item:mekanism:alloy_infused",
-      "recipe": "jei:/mekanism/metallurgic_infusing/alloy/infused"
-    },
-    {
-      "stack": "item:mekanism:alloy_reinforced",
-      "recipe": "jei:/mekanism/metallurgic_infusing/alloy/reinforced"
-    },
-    {
-      "stack": "item:ae2:speed_card",
-      "recipe": "ae2:materials/cardspeed"
-    },
-    {
-      "stack": "item:ae2:crafting_unit",
-      "recipe": "ae2:network/crafting/cpu_crafting_unit"
-    },
-    {
-      "stack": "item:ae2:logic_processor",
-      "recipe": "jei:/ae2/inscriber/logic_processor"
-    },
-    {
-      "stack": "item:ae2:calculation_processor",
-      "recipe": "jei:/ae2/inscriber/calculation_processor"
-    },
-    {
-      "stack": "item:ae2:engineering_processor",
-      "recipe": "jei:/ae2/inscriber/engineering_processor"
-    },
-    {
-      "stack": "item:expatternprovider:ex_charger",
-      "recipe": "expatternprovider:ex_charger"
-    },
-    {
-      "stack": "item:industrialforegoing:mob_imprisonment_tool"
-    },
-    {
-      "stack": "item:thermal:machine_crucible",
-      "recipe": "thermal:machine_crucible"
-    },
-    {
-      "stack": "item:expatternprovider:ex_molecular_assembler",
-      "recipe": "expatternprovider:ex_molecular_assembler"
-    },
-    {
-      "stack": "item:thermal:machine_chiller",
-      "recipe": "thermal:machine_chiller"
+      "stack": "item:botania:fertilizer",
+      "recipe": "botania:fertilizer_dye"
     }
   ],
   "lookup_history": [
+    "item:minecraft:bone_block",
+    "item:minecraft:bone",
+    "item:botania:fertilizer",
+    "item:ae2:export_bus",
+    "item:botania:flower_bag",
+    "item:botania:apothecary_default",
+    "#item:botania:petals",
+    "item:botania:pure_daisy",
+    "item:botania:lexicon",
+    "item:botania:lexicon{\"botania:elven_unlock\":1b}",
+    {
+      "type": "item",
+      "id": "waystones:warp_scroll",
+      "amount": 15
+    },
+    "item:draconicevolution:draconium_core",
+    "item:draconicevolution:draconium_chest",
+    "item:alexsmobs:dimensional_carver{Damage:0}",
+    "item:alexsmobs:void_worm_eye",
+    "item:alexsmobs:void_worm_mandible",
+    "item:alexsmobs:shattered_dimensional_carver{Damage:0}",
+    "item:alexsmobs:farseer_arm",
+    "item:alexsmobs:transmutation_table",
+    "item:minecraft:nether_star",
+    "item:avaritia:crystal_matrix_ingot",
+    "item:avaritia:extreme_crafting_table",
+    "item:avaritia:nether_crafting_table",
+    "item:avaritia:end_crafting_table",
+    "item:avaritia:sculk_crafting_table",
+    "item:avaritia:refined_coal_block",
+    "item:avaritia:double_compressed_crafting_table",
+    "item:minecraft:sculk_shrieker",
+    "item:ae2additions:item_storage_cell_65536",
+    "#item:forge:dusts/ender_pearl",
+    "item:ae2:singularity",
+    "item:ae2:quantum_entangled_singularity",
+    "item:solarflux:sp_avaritia.infinity",
+    "item:solarflux:sp_de.draconic",
+    "item:solarflux:sp_5",
+    "item:solarflux:sp_2",
+    "item:solarflux:sp_1",
+    "item:solarflux:sp_7",
+    "item:solarflux:sp_avaritia.neutronium",
+    "item:solarflux:sp_de.chaotic",
+    "item:draconicevolution:awakened_draconium_ingot",
+    "item:draconicevolution:awakened_core",
+    "item:solarflux:sp_de.wyvern",
+    "item:mekanismgenerators:control_rod_assembly",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:nuclear_waste",
+      "amount": 10
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:plutonium"
+    },
+    "item:mekanism:dust_fluorite",
+    {
+      "type": "item",
+      "id": "mekanism:fluorite_gem",
+      "amount": 64
+    },
+    "item:minecraft:stone_bricks",
+    "item:waystones:waystone",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:minecraft:copper_ingot",
+    "item:ironchest:crystal_chest",
+    "item:ironchest:gold_chest",
+    "item:ironchest:iron_chest",
+    "item:ae2:fluix_smart_dense_cable",
+    {
+      "type": "item",
+      "id": "ae2:fluix_smart_cable",
+      "amount": 3
+    },
+    "item:ae2:energy_cell",
+    "item:ae2:dense_energy_cell",
+    "item:ae2:energy_card",
+    "item:expatternprovider:wireless_connect",
+    "item:expatternprovider:wireless_tool",
+    "item:expatternprovider:circuit_cutter",
+    "item:minecraft:string",
+    "item:minecraft:white_wool",
+    "item:ae2:fluix_covered_cable",
+    "item:ae2:white_smart_cable",
+    "item:minecraft:sculk_sensor",
+    "item:minecraft:dragon_head",
+    "item:ae2:damaged_budding_quartz",
+    {
+      "type": "item",
+      "id": "ae2:chipped_budding_quartz",
+      "amount": 15
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_gold",
+      "amount": 64
+    },
+    "item:chunkloaders:advanced_chunk_loader",
+    "item:thermal:machine_crafter",
+    "item:mekanism:electrolytic_separator",
+    "item:mekanism:alloy_reinforced",
+    "item:botania:ender_air_bottle",
+    "item:minecraft:egg",
+    {
+      "type": "item",
+      "id": "farmersdelight:raw_pasta",
+      "amount": 58
+    },
+    {
+      "type": "item",
+      "id": "minecraft:mutton",
+      "amount": 2
+    },
+    "item:farmersdelight:wheat_dough",
+    "item:farmersdelight:pasta_with_mutton_chop",
+    "item:cfm:white_kitchen_drawer",
+    {
+      "type": "item",
+      "id": "minecraft:sugar",
+      "amount": 5
+    },
+    "item:minecraft:bucket",
+    "item:mekanism:steel_casing",
+    "item:minecraft:sand",
+    "item:minecraft:gravel",
+    "#item:forge:gravel",
+    "item:minecraft:smooth_sandstone",
+    "item:immersiveengineering:component_iron",
+    "item:immersiveengineering:cloche",
+    "item:immersiveengineering:plate_iron",
+    "#item:forge:plates/iron",
+    "item:minecraft:soul_soil",
+    "item:minecraft:soul_sand",
+    {
+      "type": "item",
+      "id": "minecraft:quartz",
+      "amount": 64
+    },
+    "item:ae2:import_bus",
+    "item:expatternprovider:ingredient_buffer",
+    "item:expatternprovider:caner",
+    "item:ae2:fluid_cell_housing",
+    "item:ae2:cell_component_1k",
+    "item:ae2:portable_fluid_cell_1k",
+    "item:minecraft:bowl",
+    "item:farmersdelight:tomato_sauce",
+    "item:farmersdelight:pasta_with_meatballs",
+    "#item:forge:dough",
+    "#item:forge:pasta",
+    "item:farmersdelight:cooking_pot",
+    "item:minecraft:sea_lantern",
+    "#item:forge:treated_wood",
+    {
+      "type": "item",
+      "id": "immersiveengineering:hammer",
+      "nbt": "{Damage:0}",
+      "remainder": "item:immersiveengineering:hammer{Damage:1}"
+    },
+    "item:cfm:fridge_light",
+    "item:minecraft:crafting_table",
+    "item:ae2:crafting_card",
+    "item:farmersdelight:onion",
+    "item:minecraft:glass",
+    "item:minecraft:oak_fence",
+    "item:mcwfurnitures:oak_modern_chair",
+    "item:immersiveengineering:blueprint{blueprint:\"specialBullet\"}",
+    {
+      "type": "item",
+      "id": "immersiveengineering:dragons_breath",
+      "amount": 4
+    },
+    "item:immersiveengineering:raw_aluminum",
+    "item:immersiveengineering:dust_aluminum",
+    "item:immersiveengineering:ingot_aluminum",
+    "item:immersiveengineering:plate_copper",
+    "#item:forge:plates/copper",
+    {
+      "type": "item",
+      "id": "immersiveengineering:empty_shell",
+      "amount": 3
+    },
+    "item:minecraft:paper",
+    "item:immersiveengineering:gunpart_hammer",
+    "item:immersiveengineering:revolver",
+    "item:immersiveengineering:component_steel",
+    "item:immersiveengineering:plate_steel",
+    "item:immersiveengineering:wooden_grip",
+    "#item:forge:nuggets/copper",
+    "item:immersiveengineering:stick_treated",
+    "item:immersiveengineering:gunpart_drum",
+    "item:immersiveengineering:gunpart_barrel",
+    "item:immersiveengineering:stick_steel",
+    "#item:forge:ingots/steel",
+    "item:mekanism:security_desk",
+    "item:immersiveengineering:circuit_table",
+    "item:vinery:dark_cherry_big_table",
+    "item:minecraft:dark_oak_fence",
+    "item:mcwfurnitures:stripped_dark_oak_table",
+    "item:mcwfurnitures:stripped_dark_oak_coffee_table",
+    "item:minecraft:dark_oak_planks",
+    "item:mcwfurnitures:stripped_dark_oak_end_table",
+    "item:mcwfurnitures:stripped_dark_oak_glass_table",
+    "item:minecraft:bookshelf",
+    "item:twilightforest:canopy_bookshelf",
+    {
+      "type": "item",
+      "id": "mcwfurnitures:oak_bookshelf_drawer",
+      "amount": 4
+    },
+    "item:mcwfurnitures:cabinet_drawer",
+    "item:cfm:oak_cabinet",
+    "item:cfm:spruce_bedside_cabinet",
+    "item:cfm:oak_bedside_cabinet",
+    "item:pamhc2foodcore:baconcheeseburgeritem",
+    {
+      "type": "item",
+      "id": "pamhc2foodcore:skilletitem",
+      "remainder": "item:pamhc2foodcore:skilletitem"
+    },
+    "item:pamhc2foodcore:cheeseitem",
+    "item:mekanism:salt",
+    "item:minecraft:white_terracotta",
+    {
+      "type": "item",
+      "id": "cfm:white_kitchen_sink",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:white_concrete_powder",
+      "amount": 40
+    },
+    "item:minecraft:terracotta",
+    {
+      "type": "item",
+      "id": "cfm:white_kitchen_counter",
+      "amount": 8
+    },
+    "item:minecraft:white_concrete",
+    "#item:forge:concrete",
+    "item:cfm:orange_kitchen_counter",
+    {
+      "type": "item",
+      "id": "farmersdelight:minced_beef",
+      "amount": 64
+    },
+    "item:minecraft:beef",
+    "item:farmersdelight:beef_patty",
+    "item:farmersdelight:hamburger",
+    "item:thermal:electrum_dust",
+    "item:immersiveengineering:ingot_electrum",
+    "item:immersiveengineering:plate_electrum",
+    "#item:forge:plates/electrum",
+    "item:thermal:machine_speed_augment",
+    "item:immersiveengineering:dust_silver",
+    "item:immersiveengineering:dust_electrum",
+    "item:thermal:lead_gear",
+    "#item:forge:ingots/electrum",
+    "item:minecraft:iron_block",
+    "item:minecraft:anvil",
     "item:mekanism:upgrade_gas",
     "item:mekanism:upgrade_anchor",
     "item:ae2:fluix_upgrade_smithing_template",
@@ -196,16 +301,9 @@
       "amount": 32
     },
     "item:thermal:earth_charge",
-    "item:minecraft:quartz",
-    "item:mekanism:steel_casing",
-    "item:minecraft:bucket",
     "item:mekanism:advanced_compressing_factory",
     "item:mekanism:basic_compressing_factory",
     "item:mekanism:osmium_compressor",
-    "item:immersiveengineering:component_iron",
-    "item:immersiveengineering:cloche",
-    "item:immersiveengineering:plate_iron",
-    "#item:forge:plates/iron",
     "item:create:zinc_ingot",
     "item:create:brass_ingot",
     "item:create:brass_sheet",
@@ -213,7 +311,6 @@
     "item:create_hypertube:hypertube_entrance",
     "item:farmersdelight:tomato",
     "#item:forge:crops/tomato",
-    "item:farmersdelight:hamburger",
     "item:minecraft:sugar_cane",
     "item:minecraft:ice",
     "item:minecraft:packed_ice",
@@ -252,9 +349,6 @@
     "item:mekanism:ultimate_enriching_factory",
     "item:immersiveengineering:jerrycan",
     "item:ae2:cable_anchor",
-    "item:minecraft:beef",
-    "item:farmersdelight:minced_beef",
-    "item:farmersdelight:beef_patty",
     "item:twilightforest:piglin_skull_candle{BlockEntityTag:{CandleAmount:1,CandleColor:0}}",
     "item:ae2:charger",
     "item:ae2:storage_bus",
@@ -275,24 +369,18 @@
     },
     "item:minecraft:sticky_piston",
     "item:ae2:inscriber",
-    "item:ae2:crafting_unit",
     "item:ae2:speed_card",
-    "item:ae2:crafting_card",
     "item:mekanism:crusher",
-    "item:mekanism:alloy_reinforced",
     "item:ae2:fluix_crystal",
     "item:ae2:certus_quartz_crystal",
     "item:minecraft:diamond",
     "item:minecraft:lava_bucket",
     "item:mekanism:upgrade_speed",
-    "item:expatternprovider:caner",
     "item:mekanism:alloy_infused",
     "item:mekanism:advanced_control_circuit",
     "item:mekanism:basic_control_circuit",
     "item:botania:redstone_root",
     "item:ae2:crafting_accelerator",
-    "item:waystones:warp_stone{Damage:0}",
-    "item:waystones:waystone",
     "item:mekanism:enriched_iron",
     "item:mekanism:dust_steel",
     "#item:forge:dusts/steel",
@@ -300,13 +388,10 @@
     "item:ae2:certus_quartz_cutting_knife{Damage:0}",
     "#item:ae2:knife",
     "item:minecraft:chest",
-    "item:draconicevolution:draconium_chest",
     "item:solarflux:mirror",
-    "item:solarflux:sp_1",
     "item:mekanismgenerators:advanced_solar_generator",
     "item:mekanism:meka_tool",
     "item:immersiveengineering:fertilizer",
-    "item:solarflux:sp_de.wyvern",
     "item:avaritia:record_fragment",
     "item:avaritia:singularity{Id:\"avaritia:tin\"}",
     "item:mekanism:ingot_tin",
@@ -319,18 +404,7 @@
     "item:mekanism:basic_infusing_factory",
     "item:minecraft:furnace",
     "item:mekanism:metallurgic_infuser",
-    "item:immersiveengineering:plate_steel",
-    "item:immersiveengineering:gunpart_drum",
-    "item:immersiveengineering:revolver",
-    "item:immersiveengineering:plate_copper",
-    "#item:forge:plates/copper",
-    {
-      "type": "item",
-      "id": "immersiveengineering:empty_shell",
-      "amount": 4
-    },
     "item:immersiveengineering:flare",
-    "item:immersiveengineering:dragons_breath",
     "item:immersiveengineering:fluid_pipe",
     "item:immersiveengineering:seed",
     "item:immersiveengineering:light_bulb",
@@ -338,13 +412,10 @@
     "item:immersiveengineering:blueprint{blueprint:\"components\"}",
     "item:immersiveengineering:workbench",
     "item:immersiveengineering:treated_wood_horizontal",
-    "#item:forge:treated_wood",
-    "item:immersiveengineering:stick_treated",
     "item:immersiveengineering:craftingtable",
     "item:immersiveengineering:slab_treated_wood_horizontal",
     "#item:forge:treated_wood_slab",
     "item:immersiveengineering:hemp_fiber",
-    "item:minecraft:string",
     "item:ae2:fluix_glass_cable",
     "item:avaritia:extreme_anvil",
     "item:avaritia:neutron_ingot",
@@ -357,23 +428,10 @@
     "item:botanicalmachinery:alfheim_market",
     "item:fluxnetworks:flux_dust",
     "item:farmersdelight:tree_bark",
-    "item:minecraft:paper",
     "item:minecraft:firework_rocket{Fireworks:{Flight:1b}}",
     "item:minecraft:purple_dye",
-    {
-      "type": "item",
-      "id": "waystones:warp_scroll",
-      "amount": 3
-    },
     "item:pamhc2crops:strawberryitem",
     "item:draconicevolution:awakened_draconium_dust",
-    "item:draconicevolution:awakened_draconium_ingot",
-    "item:draconicevolution:awakened_core",
-    {
-      "type": "item",
-      "id": "solarflux:sp_de.draconic",
-      "amount": 2
-    },
     "item:ae2additions:cell_component_16384",
     "item:ae2additions:cell_component_4096",
     "item:ae2:cell_component_256k",
@@ -400,18 +458,12 @@
       "amount": 10
     },
     "item:draconicevolution:crystal_binder",
-    {
-      "type": "item",
-      "id": "ae2:cell_component_1k",
-      "amount": 10
-    },
     "item:mekanism:free_runners",
     "item:mekanism:hdpe_elytra{Damage:0}",
     "item:mekanism:mekasuit_bodyarmor",
     "item:mekanism:jetpack",
     "item:mekanism:jetpack_armored{mekData:{GasTanks:[{Tank:0b,stored:{amount:23347L,gasName:\"mekanism:hydrogen\"}}],mode:0}}",
     "item:draconicevolution:wyvern_core",
-    "item:draconicevolution:draconium_core",
     "item:draconicevolution:wyvern_energy_core",
     "item:solarflux:sp_8",
     "item:minecraft:ender_eye",
@@ -443,7 +495,6 @@
       "item:solarflux:sp_7",
       "item:solarflux:sp_tf.carminite"
     ],
-    "item:solarflux:sp_5",
     "item:mekanism:energy_tablet",
     "item:mekanism:basic_energy_cube",
     "item:mekanism:ultimate_energy_cube",
@@ -479,21 +530,13 @@
     "item:botania:tornado_rod",
     "item:ae2:smooth_sky_stone_block",
     "item:draconicevolution:draconic_energy_core",
-    {
-      "type": "item",
-      "id": "minecraft:sea_lantern",
-      "amount": 9
-    },
     "item:ae2:quartz_fiber",
-    "item:ae2:fluix_covered_cable",
-    "item:ae2:fluix_smart_cable",
     "item:ae2:brown_smart_cable",
     "item:mekanism:basic_universal_cable",
     "item:mekanism:advanced_universal_cable",
     "item:mekanism:elite_universal_cable",
     "item:ae2:interface",
     "item:ae2:pattern_provider",
-    "item:minecraft:crafting_table",
     "item:ae2:quartz_glass",
     "item:ae2:annihilation_core",
     "item:ae2:formation_core",
@@ -546,10 +589,8 @@
     "item:solarflux:photovoltaic_cell_2",
     "item:solarflux:photovoltaic_cell_1",
     "item:minecraft:repeater",
-    "item:minecraft:iron_block",
     "item:solarflux:sp_3",
     "item:minecraft:piston",
-    "item:solarflux:sp_2",
     "item:minecraft:spruce_log",
     "#item:forge:rods/wooden",
     "item:ae2:fluix_dust",
@@ -577,11 +618,6 @@
       "type": "item",
       "id": "minecraft:experience_bottle",
       "amount": 2
-    },
-    {
-      "type": "jemi",
-      "uid": "gas:mekanism:nuclear_waste",
-      "amount": 10
     },
     "item:mekanism:pellet_polonium",
     "item:mekanism:upgrade_energy",
@@ -712,15 +748,12 @@
     },
     "item:minecraft:smooth_stone",
     "item:create:schematic_table",
-    "item:farmersdelight:cooking_pot",
     {
       "type": "item",
       "id": "farmersdelight:dumplings",
       "amount": 2
     },
     "#item:forge:crops/cabbage",
-    "item:farmersdelight:wheat_dough",
-    "#item:forge:dough",
     "item:minecraft:stripped_oak_log",
     "item:create:andesite_casing",
     "item:create:mechanical_saw",
@@ -747,7 +780,6 @@
     "item:ae2:crafting_terminal",
     "item:ae2:pattern_encoding_terminal",
     "item:ae2:terminal",
-    "item:ae2:singularity",
     "item:ae2:cell_component_16k",
     "item:ae2additions:cell_component_65536",
     "item:ae2:cell_component_64k",
@@ -769,7 +801,6 @@
       "id": "ae2additions:super_cell_component_1k",
       "amount": 2
     },
-    "item:ae2:export_bus",
     "item:exdeorum:mechanical_sieve",
     "#item:forge:chests/wooden",
     "item:exdeorum:mechanical_hammer",
@@ -795,8 +826,6 @@
       "id": "minecraft:cobblestone",
       "amount": 64
     },
-    "item:minecraft:gravel",
-    "item:minecraft:sand",
     "item:ae2:quartz_block",
     "item:ae2:growth_accelerator",
     "item:ae2:fluix_block",
@@ -818,13 +847,6 @@
     "#item:ae2:pattern_provider",
     "item:ae2:pattern_access_terminal",
     "item:ae2wtlib:wireless_pattern_access_terminal",
-    "item:ae2:dense_energy_cell",
-    {
-      "type": "item",
-      "id": "ae2:energy_cell",
-      "nbt": "{}",
-      "amount": 6
-    },
     "item:ae2:quantum_link",
     "item:draconicevolution:chaotic_sword",
     "item:twilightforest:fiery_ingot",
@@ -1050,11 +1072,6 @@
       "amount": 64
     },
     "item:twilightforest:fiery_block",
-    {
-      "type": "item",
-      "id": "minecraft:raw_gold",
-      "amount": 29
-    },
     "#item:forge:pistons",
     "item:minecraft:piglin_head",
     "item:ae2:1k_crafting_storage",
@@ -1087,11 +1104,6 @@
     "item:vinery:bottle_mojang_noir",
     "item:ae2:semi_dark_monitor",
     "#item:ae2:illuminated_panel",
-    {
-      "type": "item",
-      "id": "minecraft:copper_ingot",
-      "amount": 2
-    },
     "item:draconicevolution:item_wyvern_flight",
     "item:draconicevolution:item_draconic_flight",
     "item:draconicevolution:item_chaotic_flight",
@@ -1109,7 +1121,6 @@
     ],
     "item:minecraft:slime_ball",
     "item:minecraft:slime_block",
-    "item:ae2:damaged_budding_quartz",
     "item:mekanism:atomic_disassembler{mekData:{EnergyContainers:[{Container:0b,stored:\"465650\"}],mode:0}}",
     {
       "type": "item",
@@ -1136,7 +1147,6 @@
     "item:mekanism:logistical_sorter",
     "item:mekanism:digital_miner",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"divinerpg:rive\",lvl:1s}]}",
-    "#item:forge:ingots/steel",
     "item:farmersdelight:straw_bale",
     "item:farmersdelight:straw",
     "item:minecraft:lead",
@@ -1174,10 +1184,7 @@
       "id": "minecraft:melon_slice",
       "amount": 4
     },
-    "item:minecraft:white_concrete_powder",
-    "item:minecraft:white_concrete",
     "item:mcwfurnitures:cabinet_door",
-    "item:cfm:white_kitchen_drawer",
     "item:alexsmobs:mimicream",
     {
       "type": "fluid",
@@ -1226,20 +1233,8 @@
     "#item:forge:nuggets/steel",
     "item:createnuclear:steel_ingot",
     "item:mekanism:nugget_steel",
-    {
-      "type": "item",
-      "id": "minecraft:glass",
-      "amount": 3
-    },
-    {
-      "type": "item",
-      "id": "pamhc2foodcore:skilletitem",
-      "remainder": "item:pamhc2foodcore:skilletitem"
-    },
-    "item:pamhc2foodcore:baconcheeseburgeritem",
     "item:pamhc2foodcore:mayonaiseitem",
     "item:pamhc2foodcore:cheesecakeitem",
-    "item:minecraft:terracotta",
     {
       "type": "item",
       "id": "pamhc2foodcore:juiceritem",
@@ -1251,14 +1246,12 @@
       "remainder": "item:pamhc2foodcore:grinderitem"
     },
     "item:pamhc2foodcore:groundbeefitem",
-    "item:pamhc2foodcore:cheeseitem",
     {
       "type": "item",
       "id": "pamhc2foodcore:potitem",
       "remainder": "item:pamhc2foodcore:potitem"
     },
     "item:pamhc2foodcore:saltitem",
-    "item:mekanism:salt",
     "#item:forge:salt",
     "item:farmersdelight:iron_knife{Damage:0}",
     "#item:forge:tools/knives",
@@ -1282,7 +1275,6 @@
     "item:travelersbackpack:iron_tier_upgrade",
     "item:ae2:sky_stone_block",
     "item:chunkloaders:ultimate_chunk_loader",
-    "item:chunkloaders:advanced_chunk_loader",
     "item:chunkloaders:single_chunk_loader",
     {
       "type": "item",
@@ -1359,17 +1351,123 @@
     "item:create:golden_sheet"
   ],
   "craft_history": [
-    "mekanismtools:refined_obsidian/tools/pickaxe",
-    "mekanism:steel_casing",
+    "botania:fertilizer_dye",
+    "botania:apothecary_default",
+    "botania:flower_bag",
+    "botania:petal_pink_double",
+    "botania:lexicon",
+    "minecraft:tnt",
+    "ae2:network/blocks/quantum_ring",
+    "ae2:network/blocks/quantum_link",
+    "ae2:network/blocks/io_condenser",
+    "waystones:waystone",
+    "minecraft:stone_bricks",
+    "waystones:warp_stone",
+    "minecraft:copper_ingot_smelting",
+    "ironchest:chests/vanilla_copper_chest",
+    "ironchest:chests/diamond_crystal_chest",
+    "ironchest:chests/gold_diamond_chest",
+    "ironchest:chests/iron_gold_chest",
+    "ironchest:chests/copper_iron_chest",
+    "ironchest:chests/vanilla_iron_chest",
+    "ae2:network/cables/dense_smart_from_smart",
+    "ae2:network/cables/smart_fluix_clean",
+    "expatternprovider:wireless_tool",
+    "ae2:network/blocks/energy_energy_cell",
+    "ae2:network/blocks/energy_dense_energy_cell",
+    "jei:/mekanism/compat/ae2/certus_crystal_to_dust",
+    "ae2:materials/cardenergy",
+    "immersiveengineering:crafting/string",
+    "minecraft:white_wool_from_string",
+    "ae2:network/cables/covered_fluix",
+    "ae2:network/cables/smart_fluix",
+    "ae2:network/cables/smart_white",
+    "expatternprovider:wireless_connector",
+    "ae2:misc/deconstruction_certus_quartz_block",
+    "chunkloaders:advanced_chunk_loader",
+    "chunkloaders:basic_chunk_loader",
+    "minecraft:gold_ingot_smelting",
+    "mekanism:transmitter/mechanical_pipe/elite",
+    "mekanism:transmitter/mechanical_pipe/advanced",
+    "mekanism:transmitter/mechanical_pipe/basic",
+    "mekanism:chemical_tank/elite",
+    "mekanism:chemical_tank/advanced",
+    "mekanism:chemical_tank/basic",
+    "jei:/mekanism/metallurgic_infusing/alloy/reinforced",
+    "mekanism:transmitter/pressurized_tube/elite",
+    "mekanism:transmitter/pressurized_tube/advanced",
+    "mekanism:transmitter/pressurized_tube/basic",
+    "farmersdelight:wheat_dough",
+    "minecraft:farmersdelight.dough",
+    "cfm:white_kitchen_drawer",
+    "minecraft:sugar_from_sugar_cane",
     "minecraft:bucket",
+    "mekanism:steel_casing",
+    "mekanism:electric_pump",
+    "immersiveengineering:crafting/cloche",
+    "jei:/mekanism/crushing/gravel_to_sand",
+    "immersiveengineering:crafting/component_iron",
+    "immersiveengineering:crafting/plate_iron_hammering",
+    "ae2:network/parts/import_bus",
+    "expatternprovider:ingredient_buffer",
+    "expatternprovider:caner",
+    "ae2:network/cells/fluid_cell_housing",
+    "ae2:network/cells/fluid_storage_cell_1k_storage",
+    "minecraft:bowl",
+    "minecraft:sea_lantern",
+    "immersiveengineering:crafting/hammer",
+    "ae2:materials/cardcrafting",
+    "minecraft:crafting_table",
+    "minecraft:glass",
+    "supplementaries:soap_clean_minecraft_stained_glass",
+    "farmersdelight:hamburger",
+    "mcwfurnitures:oak_modern_chair",
+    "minecraft:oak_fence",
+    "immersiveengineering:crafting/empty_shell",
+    "immersiveengineering:crafting/plate_copper_hammering",
+    "minecraft:paper",
+    "immersiveengineering:crafting/revolver",
+    "immersiveengineering:crafting/gunpart_hammer",
+    "immersiveengineering:crafting/component_steel",
+    "immersiveengineering:crafting/plate_steel_hammering",
+    "immersiveengineering:crafting/wooden_grip",
+    "immersiveengineering:crafting/stick_treated",
+    "immersiveengineering:crafting/gunpart_drum",
+    "immersiveengineering:crafting/gunpart_barrel",
+    "immersiveengineering:crafting/stick_steel",
+    "mcwfurnitures:stripped_dark_oak_glass_table",
+    "mcwfurnitures:stripped_dark_oak_end_table",
+    "mcwfurnitures:stripped_dark_oak_table",
+    "minecraft:dark_oak_fence",
+    "mcwfurnitures:stripped_dark_oak_coffee_table",
+    "minecraft:dark_oak_planks",
+    "cfm:spruce_bedside_cabinet",
+    "minecraft:lantern",
+    "minecraft:bookshelf",
+    "minecraft:white_terracotta",
+    "cfm:white_kitchen_sink",
+    "cfm:fridge_light",
+    "minecraft:terracotta",
+    "minecraft:white_concrete_powder",
+    "cfm:white_kitchen_counter",
+    "farmersdelight:beef_patty",
+    "ae2:network/crafting/cpu_crafting_accelerator",
+    "thermal:smelting/electrum_ingot_from_dust_smelting",
+    "thermal:electrum_dust_2",
+    "immersiveengineering:crafting/raw_hammercrushing_silver",
+    "immersiveengineering:crafting/electrum_mix",
+    "immersiveengineering:smelting/ingot_electrum_from_dust",
+    "immersiveengineering:crafting/plate_electrum_hammering",
+    "thermal:parts/lead_gear",
+    "thermal:augments/machine_speed_augment",
+    "thermal:machine_chiller",
+    "minecraft:iron_block",
+    "minecraft:anvil",
+    "mekanismtools:refined_obsidian/tools/pickaxe",
     "mekanism:osmium_compressor",
     "mekanism:factory/elite/compressing",
     "mekanism:factory/advanced/compressing",
     "mekanism:factory/basic/compressing",
-    "immersiveengineering:crafting/cloche",
-    "immersiveengineering:crafting/component_iron",
-    "immersiveengineering:crafting/plate_iron_hammering",
-    "farmersdelight:hamburger",
     "farmersdelight:tomato_seeds",
     "ae2:materials/basiccard",
     "ae2:materials/cardcapacity",
@@ -1404,7 +1502,6 @@
     "ae2:network/blocks/inscribers",
     "ae2:network/crafting/cpu_crafting_unit",
     "minecraft:firework_rocket_simple",
-    "ae2:materials/cardcrafting",
     "mekanism:crusher",
     "kubejs:ae2/fluix_crystal_cheat",
     "mekanism:factory/elite/crushing",
@@ -1413,9 +1510,7 @@
     "mekanism:upgrade/energy",
     "mekanism:upgrade/speed",
     "mekanism:control_circuit/advanced",
-    "ae2:network/crafting/cpu_crafting_accelerator",
     "waystones:mossy_waystone",
-    "waystones:warp_stone",
     "ae2:tools/nether_quartz_cutting_knife",
     "minecraft:chest",
     "solarflux:solar_panel_1",
@@ -1430,7 +1525,6 @@
     "immersiveengineering:crafting/workbench",
     "immersiveengineering:crafting/craftingtable",
     "immersiveengineering:crafting/treated_wood_horizontal",
-    "ae2:network/cables/covered_fluix",
     "waystones:warp_scroll",
     "minecraft:purple_dye",
     "ae2additions:components/65536k",
@@ -1485,7 +1579,6 @@
     "minecraft:iron_bars",
     "exdeorum:mechanical_sieve",
     "ae2:network/blocks/controller",
-    "minecraft:sea_lantern",
     "ae2:network/parts/quartz_fiber_part",
     "ae2:network/cables/glass_fluix",
     "ae2:network/cables/glass_fluix_clean",
@@ -1494,7 +1587,6 @@
     "mekanism:transmitter/universal_cable/basic",
     "ae2:network/blocks/pattern_providers_interface",
     "ae2:network/blocks/interfaces_interface",
-    "minecraft:crafting_table",
     "ae2:decorative/quartz_glass",
     "ae2:materials/annihilationcore",
     "ae2:materials/formationcore",
@@ -1522,18 +1614,14 @@
     "cfm:spruce_upgraded_fence",
     "solarflux:photovoltaic_cell_1",
     "minecraft:repeater",
-    "minecraft:iron_block",
     "solarflux:solar_panel_3",
     "minecraft:piston",
     "solarflux:solar_panel_2",
-    "minecraft:paper",
     "ae2:network/upgrade_wireless_crafting_terminal",
     "minecraft:spruce_planks",
     "mekanism:hdpe_elytra",
     "mekanism:rotary_condensentrator",
     "mekanism:fluid_tank/basic",
-    "mekanism:chemical_tank/basic",
-    "mekanism:transmitter/mechanical_pipe/basic",
     "mekanism:gauge_dropper",
     "pipez:gas_pipe",
     "mekanism:pressurized_reaction_chamber",
@@ -1565,14 +1653,11 @@
     "ae2:network/cells/item_storage_components_cell_1k_part",
     "minecraft:redstone_torch",
     "minecraft:lever",
-    "immersiveengineering:crafting/hammer",
     "immersiveengineering:crafting/cokebrick",
     "create:crafting/schematics/schematic_table",
-    "waystones:waystone",
     "minecraft:minecart",
     "minecraft:shears",
     "minecraft:white_carpet",
-    "minecraft:white_wool_from_string",
     "minecraft:polished_granite",
     "mekanismtools:refined_obsidian/tools/shovel",
     "ae2:network/parts/terminals_pattern_encoding",
@@ -1584,7 +1669,6 @@
     "exdeorum:iron_mesh",
     "mekanism:configurator",
     "exdeorum:iron_hammer",
-    "ae2:misc/deconstruction_certus_quartz_block",
     "ae2:network/blocks/crystal_processing_growth_accelerator",
     "ae2:decorative/fluix_block",
     "minecraft:black_dye",
@@ -1592,8 +1676,6 @@
     "ae2wtlib:pattern_encoding/wireless_pattern_encoding_terminal",
     "ae2wtlib:pattern_encoding/upgrade_wireless_pattern_encoding_terminal",
     "ae2:network/wireless_terminal",
-    "ae2:network/blocks/energy_dense_energy_cell",
-    "ae2:network/blocks/energy_energy_cell",
     "ae2wtlib:quantum_bridge_card",
     "minecraft:redstone",
     "minecraft:lectern",
@@ -1614,8 +1696,6 @@
     "ae2:network/wireless_crafting_terminal",
     "mekanism:jetpack_armored",
     "minecraft:spruce_slab",
-    "minecraft:bookshelf",
-    "chunkloaders:basic_chunk_loader",
     "minecraft:cobblestone_slab",
     "supplementaries:cage",
     "minecraft:wooden_shovel",
@@ -1650,15 +1730,12 @@
     "minecraft:gold_nugget",
     "minecraft:red_dye_from_rose_bush",
     "minecraft:oak_slab",
-    "cfm:fridge_light",
-    "minecraft:white_concrete_powder",
     "minecraft:white_dye",
     "minecraft:book",
     "create:crafting/schematics/schematicannon",
     "minecraft:dispenser",
     "minecraft:bow",
     "create:crafting/schematics/empty_schematic",
-    "minecraft:sugar_from_sugar_cane",
     "minecraft:light_blue_dye_from_blue_white_dye",
     "farmersdelight:bacon_sandwich",
     "pamhc2foodcore:baconcheeseburgeritem",
@@ -1676,7 +1753,6 @@
     "minecraft:diamond_pickaxe",
     "minecraft:iron_pickaxe",
     "minecraft:torch",
-    "immersiveengineering:crafting/string",
     "minecraft:oak_boat",
     "cfm:oak_upgraded_gate",
     "minecraft:oak_fence_gate",

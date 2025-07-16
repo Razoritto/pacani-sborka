@@ -110,7 +110,7 @@
 				y = 15
 
 			[client.gui.window.upgrade]
-				x = 12
+				x = 11
 				y = 14
 
 	#QIO Config

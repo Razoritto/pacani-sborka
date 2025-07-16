@@ -1,0 +1,14 @@
+[colors]
+    # The primary color used for the mod.
+    # Allowed range: 0 ~ 16777215 - Default: 11184810
+    primaryColor = 11184810
+
+    # The secondary color used for the mod.
+    # Allowed range: 0 ~ 16777215 - Default: 5592405
+    secondaryColor = 5592405
+
+[debug]
+    # Enable debug mode
+    # Allowed values: true, false - Default: false
+    is_debug = false
+

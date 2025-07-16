@@ -1,0 +1,18 @@
+
+[button]
+	# Whether the GUI button should be displayed in the inventory screen
+	# Default: true
+	enabled = true
+	# Whether the GUI button should be positioned relative to the inventory screen,
+	#if false, it will be positioned relative to the top-left corner of the screen
+	# Default: true
+	relativeToInventory = true
+	# The X position of the button
+	# Default: 2
+	# Range: [-inf, inf]
+	x = 2
+	# The Y position of the button
+	# Default: -26
+	# Range: [-inf, inf]
+	y = -26
+

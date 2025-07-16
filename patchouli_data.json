@@ -1,5 +1,34 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/welcome",
+        "botania:basics/lexicon",
+        "botania:devices/fel_pumpkin",
+        "botania:ender/ender_eye_block",
+        "botania:misc/dispenser_tweaks",
+        "botania:basics/black_lotus",
+        "botania:basics/flowers",
+        "botania:baubles/cosmetic_baubles",
+        "botania:baubles/item_finder",
+        "botania:misc/banners",
+        "botania:basics/pure_daisy",
+        "botania:ender/ender_air",
+        "botania:misc/pavement",
+        "botania:misc/azulejo",
+        "botania:baubles/intro",
+        "botania:misc/mushrooms",
+        "botania:misc/preventing_decay",
+        "botania:tools/overgrowth_seed",
+        "botania:misc/blaze_block",
+        "botania:basics/flower_bag",
+        "botania:basics/apothecary",
+        "botania:misc/cacophonium"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
