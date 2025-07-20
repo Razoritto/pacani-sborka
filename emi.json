@@ -91,9 +91,251 @@
     {
       "stack": "item:draconicevolution:disenchanter",
       "recipe": "draconicevolution:disenchanter"
+    },
+    {
+      "stack": "item:avaritia:neutron_collector",
+      "recipe": "avaritia:neutron_collector"
+    },
+    {
+      "stack": "item:avaritia:end_crafting_table",
+      "recipe": "avaritia:end_crafting_table"
+    },
+    {
+      "stack": "item:minecraft:end_portal_frame",
+      "recipe": "minecraft:end_portal_frame"
+    },
+    {
+      "stack": "item:draconicevolution:wyvern_chestpiece",
+      "recipe": "jei:/draconicevolution/tools/wyvern_chestpiece"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:fissile_fuel"
+      },
+      "recipe": "jei:/mekanism/processing/uranium/fissile_fuel"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:sulfur_dioxide"
+      },
+      "recipe": "jei:/mekanism/oxidizing/sulfur_dioxide"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:sulfur_trioxide"
+      },
+      "recipe": "jei:/mekanism/chemical_infusing/sulfur_trioxide"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "mekanism:dust_sulfur",
+        "amount": 9
+      },
+      "recipe": "jei:/mekanism/reaction/coal_gasification/blocks_coals"
+    },
+    {
+      "stack": "item:mekanism:rotary_condensentrator"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:hydrofluoric_acid"
+      },
+      "recipe": "jei:/mekanism/processing/uranium/hydrofluoric_acid"
+    },
+    {
+      "stack": "item:mekanism:chemical_dissolution_chamber"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:sulfuric_acid"
+      },
+      "recipe": "jei:/mekanism/chemical_infusing/sulfuric_acid"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:uranium_hexafluoride"
+      },
+      "recipe": "jei:/mekanism/processing/uranium/sulfuric_acid"
+    },
+    {
+      "stack": {
+        "type": "jemi",
+        "uid": "gas:mekanism:uranium_oxide"
+      },
+      "recipe": "jei:/mekanism/processing/uranium/uranium_oxide"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "mekanism:yellow_cake_uranium",
+        "amount": 2
+      },
+      "recipe": "jei:/mekanism/processing/uranium/yellow_cake_uranium"
+    },
+    {
+      "stack": "item:mekanism:ingot_uranium"
+    },
+    {
+      "stack": "item:mekanism:isotopic_centrifuge",
+      "recipe": "mekanism:isotopic_centrifuge"
     }
   ],
   "lookup_history": [
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:fissile_fuel"
+    },
+    "item:mekanism:isotopic_centrifuge",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:uranium_hexafluoride"
+    },
+    {
+      "type": "item",
+      "id": "mekanism:yellow_cake_uranium",
+      "amount": 2
+    },
+    "item:mekanism:ingot_uranium",
+    "#item:forge:ingots/uranium",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:uranium_oxide"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:hydrofluoric_acid"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:sulfuric_acid"
+    },
+    "item:mekanism:ingot_refined_obsidian",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:sulfur_dioxide"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:water_vapor"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:sulfur_trioxide"
+    },
+    "item:minecraft:barrel",
+    "item:mekanism:personal_barrel",
+    "item:mekanism:chemical_oxidizer",
+    "#item:mekanism:personal_storage",
+    {
+      "type": "item",
+      "id": "mekanism:dust_sulfur",
+      "amount": 9
+    },
+    "item:mekanism:dynamic_tank",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:chlorine"
+    },
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:hydrogen_chloride",
+      "amount": 200
+    },
+    "#item:forge:dusts/sulfur",
+    "item:mekanism:salt",
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:oxygen"
+    },
+    {
+      "type": "fluid",
+      "id": "mekanism:brine",
+      "amount": 10
+    },
+    "item:mekanism:basic_chemical_tank{mekData:{GasTanks:[{Tank:0b,stored:{amount:64000L,gasName:\"mekanism:hydrogen_chloride\"}}]}}",
+    [
+      "item:mekanism:basic_chemical_tank{mekData:{GasTanks:[{Tank:0b,stored:{amount:64000L,gasName:\"mekanism:hydrogen_chloride\"}}]}}",
+      "item:mekanism:salt"
+    ],
+    {
+      "type": "jemi",
+      "uid": "gas:mekanism:hydrogen"
+    },
+    "item:mekanism:elite_injecting_factory",
+    "item:mekanism:advanced_injecting_factory",
+    "item:mekanism:basic_injecting_factory",
+    "item:mekanism:chemical_injection_chamber",
+    "item:mekanism:electrolytic_core",
+    "item:mekanismgenerators:fusion_reactor_logic_adapter",
+    "item:waystones:warp_stone{Damage:0}",
+    "item:ae2:certus_quartz_dust",
+    "item:minecraft:wither_skeleton_skull",
+    "item:quarryplus:adv_quarry",
+    "item:minecraft:end_stone",
+    "item:exdeorum:crushed_end_stone",
+    "item:minecraft:echo_shard",
+    "item:draconicevolution:wyvern_chestpiece",
+    "item:draconicevolution:basic_relay_crystal",
+    "item:draconicevolution:chaotic_crafting_injector",
+    "item:solarflux:sp_de.chaotic",
+    "item:minecraft:sculk_shrieker",
+    "item:mekanism:configurator{mekData:{EnergyContainers:[{Container:0b,stored:\"54000\"}],state:0}}",
+    "item:mekanism:hdpe_elytra{Damage:33,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:3}",
+    "item:mekanism:jetpack_armored{mekData:{GasTanks:[{Tank:0b,stored:{amount:22906L,gasName:\"mekanism:hydrogen\"}}],mode:0}}",
+    "item:mekanism:mekasuit_bodyarmor{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:minecraft:snout_armor_trim_smithing_template",
+    "item:mekanismtools:refined_obsidian_leggings{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:mending\",lvl:1s}],RepairCost:3}",
+    "item:minecraft:coast_armor_trim_smithing_template",
+    "item:minecraft:smithing_table",
+    "item:minecraft:stone",
+    "item:minecraft:smooth_stone",
+    "item:minecraft:smooth_stone_slab",
+    "item:avaritia:crystal_matrix_ingot",
+    "item:avaritia:neutron_collector",
+    "item:avaritia:neutron_pile",
+    "item:avaritia:neutron_nugget",
+    "item:avaritia:neutron_ingot",
+    "item:avaritia:record_fragment",
+    "item:avaritia:endest_pearl",
+    "item:avaritia:ultimate_stew",
+    "item:avaritia:cosmic_meatballs",
+    "item:avaritia:infinity_catalyst",
+    "item:avaritia:infinity_ingot",
+    "item:botania:dice",
+    "item:thermal:machine_brewer",
+    "item:minecraft:pig_spawn_egg",
+    {
+      "type": "item",
+      "id": "thermal:lightning_charge",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "thermal:blitz_powder",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "thermal:blitz_rod",
+      "amount": 3
+    },
+    "item:ae2:silicon",
+    "item:minecraft:flint",
+    "item:thermal:machine_speed_augment",
+    "item:mekanism:ingot_osmium",
+    "item:mekanism:elite_smelting_factory",
+    "item:mekanism:advanced_smelting_factory",
+    "item:mekanism:energized_smelter{mekData:{EnergyContainers:[{Container:0b,stored:\"20000\"}],Items:[],componentConfig:{config0:{side0:1,side1:1,side2:1,side3:1,side4:1,side5:1},config6:{side0:1,side1:1,side2:4,side3:8,side4:1,side5:1},eject0:0b,eject6:0b},componentEjector:{color0:-1,color1:-1,color2:-1,color3:-1,color4:-1,color5:-1,strictInput:1b},componentUpgrade:{Items:[],upgrades:[]},controlType:2,owner:[I;-1269107007,1539588958,-1306319813,637550147],securityMode:0}}",
+    "item:mekanism:basic_smelting_factory",
+    "item:minecraft:diamond",
+    "item:mekanism:elite_control_circuit",
     "item:avaritia:blaze_sword{Damage:0}",
     "item:minecraft:enchanting_table",
     "item:draconicevolution:disenchanter",
@@ -101,15 +343,12 @@
     "item:draconicevolution:draconium_dust",
     "item:supplementaries:bunting{Color:\"blue\"}",
     "item:mekanism:ultimate_smelting_factory",
-    "item:avaritia:infinity_catalyst",
-    "item:mekanism:dynamic_tank",
     "item:mekanism:creative_fluid_tank",
     "item:industrialforegoing:supreme_black_hole_unit",
     "item:ae2:singularity",
     "item:chunkloaders:basic_chunk_loader",
     "item:chunkloaders:advanced_chunk_loader",
     "item:chunkloaders:ultimate_chunk_loader",
-    "item:waystones:warp_stone{Damage:0}",
     "item:waystones:waystone",
     "item:minecraft:stone_bricks",
     "item:minecraft:blue_dye",
@@ -124,22 +363,17 @@
     "item:mekanism:dust_obsidian",
     "#item:forge:dusts/obsidian",
     "item:mekanism:dust_refined_obsidian",
-    "item:mekanism:ingot_refined_obsidian",
     [
       "item:mekanism:basic_chemical_tank{mekData:{InfusionTanks:[{Tank:0b,stored:{amount:64000L,infuseTypeName:\"mekanism:refined_obsidian\"}}]}}",
       "item:mekanism:enriched_refined_obsidian",
       "item:mekanism:dust_refined_obsidian"
     ],
     "item:mekanism:alloy_atomic",
-    "item:quarryplus:adv_quarry",
     "item:quarryplus:pump_plus",
     "item:minecraft:paper",
     "item:hexcasting:dye_colorizer_black",
     "item:minecraft:nether_star",
     "item:alexsmobs:transmutation_table",
-    "item:avaritia:nether_crafting_table",
-    "item:avaritia:end_crafting_table",
-    "item:avaritia:crystal_matrix_ingot",
     "item:minecraft:sugar_cane",
     "item:immersiveengineering:cloche",
     "item:immersiveengineering:component_iron",
@@ -209,13 +443,9 @@
     "item:avaritia:extreme_anvil",
     "item:avaritia:extreme_smithing_table",
     "item:avaritia:upgrade_smithing_template",
-    "item:avaritia:infinity_ingot",
     "item:mekanism:induction_casing",
     "item:avaritia:eternal_singularity",
     "item:avaritia:neutron_compressor",
-    "item:avaritia:neutron_collector",
-    "item:avaritia:neutron_pile",
-    "item:avaritia:neutron_ingot",
     "item:avaritia:diamond_lattice",
     "item:mekanism:dust_netherite",
     "item:thermal:netherite_dust",
@@ -236,7 +466,6 @@
     "item:packagedauto:me_package_component",
     "item:avaritia:compressed_crafting_table",
     "item:avaritia:double_compressed_crafting_table",
-    "item:minecraft:sculk_shrieker",
     "item:avaritia:infinity_chestplate",
     "item:farmersdelight:fried_egg",
     "item:farmersdelight:cooking_pot",
@@ -280,7 +509,6 @@
     "item:solarflux:sp_1",
     "item:solarflux:sp_7",
     "item:solarflux:sp_avaritia.neutronium",
-    "item:solarflux:sp_de.chaotic",
     "item:draconicevolution:awakened_draconium_ingot",
     "item:draconicevolution:awakened_core",
     "item:solarflux:sp_de.wyvern",
@@ -440,7 +668,6 @@
       "remainder": "item:pamhc2foodcore:skilletitem"
     },
     "item:pamhc2foodcore:cheeseitem",
-    "item:mekanism:salt",
     "item:minecraft:white_terracotta",
     {
       "type": "item",
@@ -473,7 +700,6 @@
     "item:immersiveengineering:ingot_electrum",
     "item:immersiveengineering:plate_electrum",
     "#item:forge:plates/electrum",
-    "item:thermal:machine_speed_augment",
     "item:immersiveengineering:dust_silver",
     "item:immersiveengineering:dust_electrum",
     "item:thermal:lead_gear",
@@ -554,7 +780,6 @@
     "item:mekanism:crusher",
     "item:ae2:fluix_crystal",
     "item:ae2:certus_quartz_crystal",
-    "item:minecraft:diamond",
     "item:minecraft:lava_bucket",
     "item:mekanism:upgrade_speed",
     "item:mekanism:alloy_infused",
@@ -572,7 +797,6 @@
     "item:solarflux:mirror",
     "item:mekanismgenerators:advanced_solar_generator",
     "item:mekanism:meka_tool",
-    "item:avaritia:record_fragment",
     "item:avaritia:singularity{Id:\"avaritia:tin\"}",
     "item:mekanism:ingot_tin",
     {
@@ -596,7 +820,6 @@
     "#item:forge:treated_wood_slab",
     "item:immersiveengineering:hemp_fiber",
     "item:ae2:fluix_glass_cable",
-    "item:avaritia:neutron_nugget",
     "item:avaritia:infinity_helmet",
     "item:botanicalmachinery:mana_emerald",
     "item:botanicalmachinery:mana_emerald_block",
@@ -632,10 +855,7 @@
     },
     "item:draconicevolution:crystal_binder",
     "item:mekanism:free_runners",
-    "item:mekanism:hdpe_elytra{Damage:0}",
-    "item:mekanism:mekasuit_bodyarmor",
     "item:mekanism:jetpack",
-    "item:mekanism:jetpack_armored{mekData:{GasTanks:[{Tank:0b,stored:{amount:23347L,gasName:\"mekanism:hydrogen\"}}],mode:0}}",
     "item:draconicevolution:wyvern_core",
     "item:draconicevolution:wyvern_energy_core",
     "item:solarflux:sp_8",
@@ -661,7 +881,6 @@
     "item:industrialforegoing:dryrubber",
     "item:industrialforegoing:mob_slaughter_factory",
     "item:draconicevolution:chaotic_core",
-    "item:minecraft:wither_skeleton_skull",
     "item:minecraft:skeleton_skull",
     "item:solarflux:sp_tf.carminite",
     [
@@ -777,7 +996,6 @@
     "item:mekanism:hdpe_sheet",
     "item:minecraft:elytra{Damage:4,Enchantments:[],RepairCost:0}",
     "item:minecraft:written_book{author:\"Schematicannon\",display:{Name:\u0027{\"italic\":false,\"color\":\"blue\",\"translate\":\"create.materialChecklist\"}\u0027},pages:[\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:cobblestone\"}},\"translate\":\"block.minecraft.cobblestone\"},{\"color\":\"black\",\"text\":\"\\\\n x1666\"},{\"color\":\"gray\",\"text\":\" | 26? +2\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_log\"}},\"translate\":\"block.minecraft.oak_log\"},{\"color\":\"black\",\"text\":\"\\\\n x1895\"},{\"color\":\"gray\",\"text\":\" | 29? +39\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_planks\"}},\"translate\":\"block.minecraft.oak_planks\"},{\"color\":\"black\",\"text\":\"\\\\n x4374\"},{\"color\":\"gray\",\"text\":\" | 68? +22\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:oak_stairs\"}},\"translate\":\"block.minecraft.oak_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x2779\"},{\"color\":\"gray\",\"text\":\" | 43? +27\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:grass_block\"}},\"translate\":\"block.minecraft.grass_block\"},{\"color\":\"black\",\"text\":\"\\\\n x2441\"},{\"color\":\"gray\",\"text\":\" | 38? +9\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_sign\"}},\"translate\":\"block.minecraft.spruce_sign\"},{\"color\":\"black\",\"text\":\"\\\\n x152\"},{\"color\":\"gray\",\"text\":\" | 2? +24\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_planks\"}},\"translate\":\"block.minecraft.spruce_planks\"},{\"color\":\"black\",\"text\":\"\\\\n x505\"},{\"color\":\"gray\",\"text\":\" | 7? +57\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_stairs\"}},\"translate\":\"block.minecraft.spruce_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x709\"},{\"color\":\"gray\",\"text\":\" | 11? +5\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:spruce_trapdoor\"}},\"translate\":\"block.minecraft.spruce_trapdoor\"},{\"color\":\"black\",\"text\":\"\\\\n x372\"},{\"color\":\"gray\",\"text\":\" | 5? +52\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"cfm:spruce_upgraded_fence\"}},\"translate\":\"block.cfm.spruce_upgraded_fence\"},{\"color\":\"black\",\"text\":\"\\\\n x37\"},{\"color\":\"gray\",\"text\":\" | 0? +37\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:dirt\"}},\"translate\":\"block.minecraft.dirt\"},{\"color\":\"black\",\"text\":\"\\\\n x206\"},{\"color\":\"gray\",\"text\":\" | 3? +14\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stone_bricks\"}},\"translate\":\"block.minecraft.stone_bricks\"},{\"color\":\"black\",\"text\":\"\\\\n x402\"},{\"color\":\"gray\",\"text\":\" | 6? +18\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:flowering_azalea_leaves\"}},\"translate\":\"block.minecraft.flowering_azalea_leaves\"},{\"color\":\"black\",\"text\":\"\\\\n x92\"},{\"color\":\"gray\",\"text\":\" | 1? +28\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stripped_oak_log\"}},\"translate\":\"block.minecraft.stripped_oak_log\"},{\"color\":\"black\",\"text\":\"\\\\n x1920\"},{\"color\":\"gray\",\"text\":\" | 30? +0\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:glass_pane\"}},\"translate\":\"block.minecraft.glass_pane\"},{\"color\":\"black\",\"text\":\"\\\\n x428\"},{\"color\":\"gray\",\"text\":\" | 6? +44\\\\n\"}],\"text\":\"\"},{\"color\":\"blue\",\"text\":\"\\\\n \u003e\u003e\u003e\"}],\"text\":\"\"}\u0027,\u0027{\"extra\":[{\"color\":\"blue\",\"extra\":[{\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"minecraft:stone_brick_stairs\"}},\"translate\":\"block.minecraft.stone_brick_stairs\"},{\"color\":\"black\",\"text\":\"\\\\n x147\"},{\"color\":\"gray\",\"text\":\" | 2? +19\\\\n\"}],\"text\":\"\"}],\"text\":\"\"}\u0027],readonly:1b,resolved:1b,title:\"§9Material Checklist\"}",
-    "item:mekanism:configurator{mekData:{EnergyContainers:[{Container:0b,stored:\"54000\"}],state:0}}",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"cofh_core:holding\",lvl:1s}]}",
     "item:mekanism:enriched_refined_obsidian",
     {
@@ -797,10 +1015,6 @@
     },
     "item:mekanism:substrate",
     "item:mekanism:basic_mechanical_pipe",
-    {
-      "type": "jemi",
-      "uid": "gas:mekanism:oxygen"
-    },
     "item:pipez:gas_pipe",
     {
       "type": "item",
@@ -815,7 +1029,6 @@
       "amount": 2
     },
     "item:mekanism:enrichment_chamber",
-    "item:mekanism:basic_chemical_tank",
     "item:mekanism:mekasuit_helmet",
     {
       "type": "jemi",
@@ -850,15 +1063,9 @@
     "item:ae2:ender_dust",
     "item:ae2:wireless_booster",
     "item:minecraft:stone_brick_stairs",
-    "item:mekanism:elite_control_circuit",
-    "item:mekanism:elite_smelting_factory",
-    "item:mekanism:advanced_smelting_factory",
-    "item:mekanism:energized_smelter",
-    "item:mekanism:basic_smelting_factory",
     "item:exdeorum:osmium_ore_chunk",
     "item:mekanism:osmium_ore",
     "#item:forge:ores/osmium",
-    "item:mekanism:ingot_osmium",
     "item:industrialforegoing:animal_rancher",
     {
       "type": "fluid",
@@ -908,7 +1115,6 @@
       "id": "minecraft:grass_block",
       "amount": 64
     },
-    "item:minecraft:smooth_stone",
     "item:create:schematic_table",
     {
       "type": "item",
@@ -937,7 +1143,6 @@
       "id": "minecraft:granite",
       "amount": 64
     },
-    "item:draconicevolution:basic_relay_crystal",
     "item:draconicevolution:wyvern_shovel",
     "item:ae2:cell_component_16k",
     "item:ae2additions:cell_component_65536",
@@ -1013,13 +1218,7 @@
     "item:alexsmobs:capsid",
     "item:waystones:return_scroll",
     "item:mekanism:electric_bow",
-    "item:minecraft:barrel",
     "item:mekanismtools:refined_obsidian_sword{Damage:0}",
-    {
-      "type": "item",
-      "id": "ae2:certus_quartz_dust",
-      "amount": 10
-    },
     "#item:forge:storage_blocks/steel",
     "item:minecraft:dark_oak_slab",
     "item:minecraft:lectern",
@@ -1257,7 +1456,6 @@
     "item:ae2:item_storage_cell_64k",
     "item:ae2:drive",
     "item:ae2:controller",
-    "item:ae2:silicon",
     "item:travelersbackpack:standard",
     "item:mekanism:bio_fuel",
     [
@@ -1423,7 +1621,6 @@
       "amount": 31
     },
     "#item:travelersbackpack:backpack_upgrades",
-    "item:minecraft:smithing_table",
     "item:botania:world_seed",
     "item:ae2:calculation_processor_press",
     "item:farmersdelight:cooked_rice",
@@ -1492,29 +1689,95 @@
     "item:create:golden_sheet"
   ],
   "craft_history": [
+    "mekanism:isotopic_centrifuge",
+    "mekanism:processing/uranium/ingot/from_raw_smelting",
+    "jei:/mekanism/processing/uranium/yellow_cake_uranium",
+    "mekanism:processing/uranium/ingot/from_block",
+    "jei:/mekanism/processing/refined_obsidian/ingot/from_dust",
+    "mekanism:chemical_dissolution_chamber",
+    "mekanism:rotary_condensentrator",
+    "mekanism:chemical_infuser",
+    "minecraft:barrel",
+    "mekanism:personal_barrel",
+    "mekanism:chemical_oxidizer",
+    "minecraft:coal_block",
+    "mekanism:dynamic_tank",
+    "mekanism:pressurized_reaction_chamber",
+    "mekanism:factory/ultimate/injecting",
+    "mekanism:factory/elite/injecting",
+    "mekanism:factory/advanced/injecting",
+    "mekanism:factory/basic/injecting",
+    "mekanism:chemical_injection_chamber",
+    "mekanism:electrolytic_core",
+    "mekanism:electrolytic_separator",
+    "mekanism:chemical_tank/ultimate",
+    "mekanism:factory/ultimate/purifying",
+    "mekanism:factory/elite/purifying",
+    "mekanism:factory/advanced/purifying",
+    "mekanism:factory/basic/purifying",
+    "mekanism:purification_chamber",
+    "chunkloaders:ultimate_chunk_loader",
+    "chunkloaders:advanced_chunk_loader",
+    "chunkloaders:basic_chunk_loader",
+    "waystones:warp_stone",
+    "waystones:waystone",
+    "jei:/mekanism/compat/ae2/certus_crystal_to_dust",
+    "minecraft:tnt",
+    "farmersdelight:hamburger",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:end_stone_bricks",
+    "packagedavaritia:end_crafter_ae",
+    "minecraft:snout_armor_trim_smithing_template",
+    "minecraft:coast_armor_trim_smithing_template",
+    "minecraft:stone",
+    "minecraft:smooth_stone",
+    "minecraft:smooth_stone_slab",
+    "minecraft:armor_stand",
+    "mekanism:upgrade/muffling",
+    "avaritia:end_crafting_table",
+    "minecraft:end_portal_frame",
+    "ae2:smelting/silicon_from_certus_quartz_dust",
+    "expatternprovider:silicon_block_disassembler",
+    "ae2:network/crafting/64k_cpu_crafting_storage",
+    "ae2:network/crafting/16k_cpu_crafting_storage",
+    "ae2:network/cells/item_storage_cell_16k_storage",
+    "ae2:network/cells/item_storage_cell_4k_storage",
+    "ae2:network/cells/item_storage_cell_1k_storage",
+    "expatternprovider:ex_drive",
+    "ae2:network/blocks/storage_drive",
+    "mekanism:crusher",
+    "mekanism:processing/osmium/ingot/from_raw_blasting",
+    "mekanism:factory/advanced/smelting",
+    "mekanism:factory/elite/smelting",
+    "mekanism:factory/ultimate/smelting",
+    "mekanism:factory/basic/smelting",
+    "mekanism:energized_smelter",
+    "mekanism:control_circuit/elite",
+    "mekanism:control_circuit/ultimate",
+    "mekanism:transmitter/logistical_transporter/ultimate",
+    "mekanism:transmitter/pressurized_tube/ultimate",
+    "mekanism:transmitter/universal_cable/ultimate",
+    "mekanism:factory/ultimate/sawing",
+    "mekanism:factory/ultimate/infusing",
+    "mekanism:factory/ultimate/combining",
+    "mekanism:factory/ultimate/compressing",
+    "mekanism:factory/ultimate/crushing",
+    "mekanism:factory/ultimate/enriching",
     "minecraft:enchanting_table",
     "minecraft:bookshelf",
     "draconicevolution:disenchanter",
     "solarflux:sp_7",
     "solarflux:sp_de.wyvern",
-    "farmersdelight:hamburger",
     "mekanism:transmitter/mechanical_pipe/ultimate",
-    "mekanism:transmitter/logistical_transporter/ultimate",
     "mekanism:fluid_tank/ultimate",
     "mekanism:fluid_tank/elite",
     "mekanism:fluid_tank/advanced",
     "mekanism:fluid_tank/basic",
-    "chunkloaders:basic_chunk_loader",
-    "chunkloaders:ultimate_chunk_loader",
-    "chunkloaders:advanced_chunk_loader",
-    "waystones:waystone",
-    "waystones:warp_stone",
     "minecraft:blue_dye",
     "minecraft:red_dye_from_poppy",
     "minecraft:purple_dye",
     "minecraft:gold_nugget",
     "waystones:warp_scroll",
-    "minecraft:tnt",
     "jei:/mekanism/processing/refined_obsidian/dust/from_obsidian_dust",
     "jei:/mekanism/enriching/conversion/obsidian_to_obsidian_dust",
     "ae2:materials/cardcrafting",
@@ -1603,7 +1866,6 @@
     "expatternprovider:wireless_tool",
     "ae2:network/blocks/energy_energy_cell",
     "ae2:network/blocks/energy_dense_energy_cell",
-    "jei:/mekanism/compat/ae2/certus_crystal_to_dust",
     "ae2:materials/cardenergy",
     "immersiveengineering:crafting/string",
     "minecraft:white_wool_from_string",
@@ -1699,7 +1961,6 @@
     "thermal:rf_coil",
     "thermal:machine_crucible",
     "jei:/mekanism/processing/iron/dust/from_ingot",
-    "mekanism:factory/ultimate/enriching",
     "mekanism:factory/elite/enriching",
     "mekanism:factory/advanced/enriching",
     "mekanism:factory/basic/enriching",
@@ -1717,7 +1978,6 @@
     "minecraft:sticky_piston",
     "ae2:network/blocks/inscribers",
     "ae2:network/crafting/cpu_crafting_unit",
-    "mekanism:crusher",
     "kubejs:ae2/fluix_crystal_cheat",
     "mekanism:factory/elite/crushing",
     "mekanism:factory/advanced/crushing",
@@ -1745,7 +2005,6 @@
     "ae2additions:components/4096k",
     "ae2additions:components/1024k",
     "minecraft:deepslate_tiles",
-    "ae2:network/cells/item_storage_cell_4k_storage",
     "ae2:network/cells/item_cell_housing",
     "draconicevolution:components/wyvern_core",
     "draconicevolution:components/draconium_core",
@@ -1831,11 +2090,8 @@
     "ae2:network/upgrade_wireless_crafting_terminal",
     "minecraft:spruce_planks",
     "mekanism:hdpe_elytra",
-    "mekanism:rotary_condensentrator",
     "mekanism:gauge_dropper",
     "pipez:gas_pipe",
-    "mekanism:pressurized_reaction_chamber",
-    "mekanism:dynamic_tank",
     "mekanism:mekasuit_helmet",
     "mekanism:mekasuit_boots",
     "minecraft:netherite_upgrade_smithing_template",
@@ -1849,11 +2105,6 @@
     "minecraft:polished_deepslate",
     "minecraft:stonecutter",
     "minecraft:stone_brick_stairs",
-    "mekanism:factory/elite/smelting",
-    "mekanism:control_circuit/elite",
-    "mekanism:factory/advanced/smelting",
-    "mekanism:factory/basic/smelting",
-    "mekanism:energized_smelter",
     "exdeorum:gold_ore",
     "ae2:network/cells/item_storage_components_cell_256k_part",
     "ae2:network/cells/item_storage_components_cell_64k_part",
@@ -1894,7 +2145,6 @@
     "travelersbackpack:blank_upgrade",
     "travelersbackpack:furnace_upgrade",
     "travelersbackpack:crafting_upgrade",
-    "minecraft:barrel",
     "minecraft:bread",
     "minecraft:wheat",
     "ae2:network/wireless_crafting_terminal",
@@ -1912,7 +2162,6 @@
     "minecraft:iron_ingot_from_nuggets",
     "minecraft:fletching_table",
     "minecraft:bone_meal_from_bone_block",
-    "ae2:network/blocks/storage_drive",
     "minecraft:golden_boots",
     "minecraft:gold_ingot_from_nuggets",
     "minecraft:crimson_planks",
