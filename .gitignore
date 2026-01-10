@@ -1,5 +1,5 @@
 saves/
-
+config/
 usercache.json
 usernamecache.json
 
@@ -11,7 +11,7 @@ options.txt
 crash-reports/
 
 journeymap/
-=======
->>>>>>> bbf1398f32e5a1ba69ea5499895ce197d40e168d
+
 
 logs/
+

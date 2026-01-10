@@ -1,5 +1,9 @@
 {
   general: {
+    // Add to Vanilla's Options
+    // Whether to add a button to vanilla game's options that opens WTHIT config screen
+    // Default value: [false]
+    vanillaOptions: false,
     // Отображать подсказки
     // Собирать данные и отображать подсказки
     // Default value: [true]
@@ -55,14 +59,9 @@
         // Available values: [TOP, MIDDLE, BOTTOM]
         y: "TOP"
       },
-      // Смещение по X
-      // Позиция X относительно привязки экрана
-      // Размер влияет на позицию
+      // Смещение
       // Default value: [0]
       x: 0,
-      // Смещение по Y
-      // Позиция Y относительно привязки экрана
-      // Размер влияет на позицию
       // Default value: [0]
       y: 0,
       // Перекрытие босс-бара
@@ -103,7 +102,57 @@
     // Default value: [§f%s]
     entityName: "§f%s",
     // Default value: [§8%s]
-    registryName: "§8%s"
+    registryName: "§8%s",
+    // 
+    styles: {
+      // 
+      "§f%s": {
+        // 
+        f_131101_: {
+          // 
+          f_131257_: 16777215,
+          // 
+          f_131258_: "white"
+        },
+        // 
+        f_131102_: false,
+        // 
+        f_131103_: false,
+        // 
+        f_131104_: false,
+        // 
+        f_131105_: false,
+        // 
+        f_131106_: false,
+        // 
+        f_131107_: null,
+        // 
+        f_131108_: null,
+        // 
+        f_131109_: null,
+        // 
+        f_131110_: null,
+        // 
+        components: {}
+      }
+    }
+  },
+  keyBinds: {
+    // Открыть конфиг
+    // Default value: [key.keyboard.unknown]
+    openConfig: "key.keyboard.unknown",
+    // Отображать оверлей
+    // Default value: [key.keyboard.unknown]
+    showOverlay: "key.keyboard.unknown",
+    // Отображать жидкости
+    // Default value: [key.keyboard.unknown]
+    toggleLiquid: "key.keyboard.unknown",
+    // Отображать применение в рецептах
+    // Default value: [key.keyboard.unknown]
+    showRecipeInput: "key.keyboard.unknown",
+    // Отображать рецепты
+    // Default value: [key.keyboard.unknown]
+    showRecipeOutput: "key.keyboard.unknown"
   },
   // Internal value, DO NOT TOUCH!
   // Default value: [0]
